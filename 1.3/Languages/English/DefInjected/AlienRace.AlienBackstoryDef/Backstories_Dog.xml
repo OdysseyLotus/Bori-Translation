@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 보리 유년기 -->
+
+  <Bori_Child_Incubator.title>Bori premature baby</Bori_Child_Incubator.title>
+  <Bori_Child_Incubator.titleShort>premature baby</Bori_Child_Incubator.titleShort>
+  <Bori_Child_Incubator.baseDesc>[PAWN_nameDef] was born prematurely and had to be incubated for a time to ensure [PAWN_pronoun] survived. [PAWN_pronoun] grew to become a sickly, frail child and was sheltered from the rest of the world because of it.</Bori_Child_Incubator.baseDesc>
+
+  <Bori_Child_Build.title>Bori tinkerer</Bori_Child_Build.title>
+  <Bori_Child_Build.titleShort>tinkerer</Bori_Child_Build.titleShort>
+  <Bori_Child_Build.baseDesc>As a child, [PAWN_nameDef] has a knack for fixing things and creating gadgets. When [PAWN_pronoun] was bored, sometimes [PAWN_pronoun] would purposely break things just to fix them.</Bori_Child_Build.baseDesc>
+
+
+  <!-- 보리 무리의 아이 -->
+
+  <Bordie_HerdChild.title>Bori herd child</Bordie_HerdChild.title>
+  <Bordie_HerdChild.titleShort>herd child</Bordie_HerdChild.titleShort>
+  <Bordie_HerdChild.baseDesc>[PAWN_nameDef] was born to ordinary people and [PAWN_possessive] early life was the definition of ordinary. [PAWN_pronoun] was born and raised in a small, tight-knit community without much exciting ever happening.</Bordie_HerdChild.baseDesc>
+
+
+  <!-- 보리 골목대장 -->
+
+  <Bordie_Child_Leader.title>Bori natural leader</Bordie_Child_Leader.title>
+  <Bordie_Child_Leader.titleShort>natural leader</Bordie_Child_Leader.titleShort>
+  <Bordie_Child_Leader.baseDesc>[PAWN_nameDef] was an unusually talented child. [PAWN_pronoun] was innately intelligent and physically well-developed, but [PAWN_possessive] natural charisma was what really stood out to others.\n\nThis charisma earned [PAWN_pronoun] a dedicated following, even as a child.</Bordie_Child_Leader.baseDesc>
+
+
+  <!-- 보리 아동 노동자 -->
+
+  <Bordie_Child_workers.title>Bori child workerer</Bordie_Child_workers.title>
+  <Bordie_Child_workers.titleShort>child workerer</Bordie_Child_workers.titleShort>
+  <Bordie_Child_workers.baseDesc>In any rapidly-developing society, there are always dark spots were corrupt practices seep through. Child laborers like [PAWN_nameDef] are one such example.\n\n[PAWN_pronoun] received no welfare from others, but always dreamed of a bright future while looking at the cloudy skies.</Bordie_Child_workers.baseDesc>
+
+
+  <!-- 보리 소년병 -->
+
+  <Bordie_Child_soldier.title>Bori child soldier</Bordie_Child_soldier.title>
+  <Bordie_Child_soldier.titleShort>child soldier</Bordie_Child_soldier.titleShort>
+  <Bordie_Child_soldier.baseDesc>When [PAWN_nameDef]'s community was invaded, [PAWN_pronoun] had no choice but to pick up a gun and fire back. Some children got a normal childhood, going to school and playing with friends. [PAWN_nameDef] knew no such thing, and envied those who did.</Bordie_Child_soldier.baseDesc>
+
+
+  <!-- 보리 유망주 -->
+
+  <Bordie_Child_star.title>Bori star player</Bordie_Child_star.title>
+  <Bordie_Child_star.titleShort>star player</Bordie_Child_star.titleShort>
+  <Bordie_Child_star.baseDesc>[PAWN_nameDef] was a prospective pick for a youth soccer club. While [PAWN_pronoun] would play with the other children, [PAWN_possessive] skills stood out amongst the rest.</Bordie_Child_star.baseDesc>
+
+
+  <!-- 보리 천재견 -->
+
+  <Bordie_Child_Genius.title>Bori child prodigy</Bordie_Child_Genius.title>
+  <Bordie_Child_Genius.titleShort>child prodigy</Bordie_Child_Genius.titleShort>
+  <Bordie_Child_Genius.baseDesc>[PAWN_nameDef] was a child prodigy. [PAWN_pronoun] aced all [PAWN_possessive] classes, breezing through questions that [PAWN_possessive] peers had trouble with. While [PAWN_possessive] health was always a concern, [PAWN_pronoun] never let that stop [PAWN_objective].</Bordie_Child_Genius.baseDesc>
+
+
+  <!-- 보리 디자인 지망생 -->
+
+  <Bordie_Child_Design.title>Bori aspiring designer</Bordie_Child_Design.title>
+  <Bordie_Child_Design.titleShort>aspiring designer</Bordie_Child_Design.titleShort>
+  <Bordie_Child_Design.baseDesc>[PAWN_nameDef] was always different from the other kids. While they cheered for their favorite soccer teams, [PAWN_pronoun] was looking at the designs of the jerseys. When the other children marveled at the newest dress or suit, [PAWN_nameDef] went to talk to the original Sheepawn designer [PAWN_objective]self.</Bordie_Child_Design.baseDesc>
+
+
+  <!-- 보리 연극학생 -->
+
+  <Bordie_Child_Theater.title>Bori drama kid</Bordie_Child_Theater.title>
+  <Bordie_Child_Theater.titleShort>drama kid</Bordie_Child_Theater.titleShort>
+  <Bordie_Child_Theater.baseDesc>[PAWN_nameDef] was a student at a theater school. This school nurtured the talents of its students and trained them to become actors. The school was very competitive, with each student vying for the lead roles, but [PAWN_nameDef] persevered and made a name for [PAWN_objective]self.</Bordie_Child_Theater.baseDesc>
+
+
+  <!-- 보리 딩고 꼬맹이 -->
+
+  <Bordie_Child_Dinggo.title>Bori dingo child</Bordie_Child_Dinggo.title>
+  <Bordie_Child_Dinggo.titleShort>dingo child</Bordie_Child_Dinggo.titleShort>
+  <Bordie_Child_Dinggo.baseDesc>[PAWN_nameDef] was an ordinary child in most respects; however, [PAWN_pronoun] was born to a group of dingoes, Bori that lived in the wild, separate from the rest of society.\n\nBecause of this, [PAWN_pronoun] didn't learn the regular morals or virtues of the Bori culture. [PAWN_pronoun] just learned how to fight and survive.</Bordie_Child_Dinggo.baseDesc>
+
+
+  <!-- 보리 문제아 -->
+
+  <Bordie_Child_troublemaker.title>Bori problem child</Bordie_Child_troublemaker.title>
+  <Bordie_Child_troublemaker.titleShort>problem child</Bordie_Child_troublemaker.titleShort>
+  <Bordie_Child_troublemaker.baseDesc>[PAWN_nameDef] was always a troublemaker. [PAWN_pronoun] was always fighting with other kids. Sometimes [PAWN_pronoun] would even injury the other kids. Most adults eventually just gave up on [PAWN_objective].</Bordie_Child_troublemaker.baseDesc>
+
+
+  <!-- 보리 장교의 아이 -->
+
+  <Bordie_Child_Officer.title>Bori officer's kid</Bordie_Child_Officer.title>
+  <Bordie_Child_Officer.titleShort>officer's kid</Bordie_Child_Officer.titleShort>
+  <Bordie_Child_Officer.baseDesc>[PAWN_nameDef] was the child of a National Guard officer. [PAWN_pronoun] developed close relationships with the soldiers of [PAWN_possessive] parent's unit from a young age. They inspired [PAWN_possessive] dream to become a part of the National Guard.</Bordie_Child_Officer.baseDesc>
+
+
+  <!-- 보리 영현대 꼬맹이 -->
+
+  <Bordie_Child_0.title>Bori Imperial Guard child</Bordie_Child_0.title>
+  <Bordie_Child_0.titleShort>Imperial Guard child</Bordie_Child_0.titleShort>
+  <Bordie_Child_0.baseDesc>The Imperial Guard, who are tasked with protecting the graves of fellow soldiers, sometimes do different jobs. One such job is protecting the children that the buried soldiers left behind. [PAWN_nameDef] was one of these children.</Bordie_Child_0.baseDesc>
+
+
+  <!-- 보리 성년기 -->
+
+  <Bori_Adult_Leader1.title>Bori commander</Bori_Adult_Leader1.title>
+  <Bori_Adult_Leader1.titleShort>commander</Bori_Adult_Leader1.titleShort>
+  <Bori_Adult_Leader1.baseDesc>[PAWN_nameDef] was a natural-born leader. [PAWN_possessive] charisma and selflessness allowed [PAWN_objective] to lead [PAWN_pronoun] people with courage and dignity as their commander.</Bori_Adult_Leader1.baseDesc>
+
+  <Bori_Adult_Soldier.title>Bori soldier</Bori_Adult_Soldier.title>
+  <Bori_Adult_Soldier.titleShort>soldier</Bori_Adult_Soldier.titleShort>
+  <Bori_Adult_Soldier.baseDesc>[PAWN_nameDef] grew up to become a proud and upstanding soldier. What is [PAWN_pronoun] thinking when [PAWN_pronoun] stares into the distance? What are those eyes, unafraid of Death itself, seeing?</Bori_Adult_Soldier.baseDesc>
+
+  <Bori_Adult_Trader.title>Bori merchant</Bori_Adult_Trader.title>
+  <Bori_Adult_Trader.titleShort>merchant</Bori_Adult_Trader.titleShort>
+  <Bori_Adult_Trader.baseDesc>[PAWN_nameDef] was a top-tier agent who traveled the world to sell [PAWN_possessive] wares. Meats, vegetables, livestock, spices, there was nothing that [PAWN_pronoun] didn't sell. Except for gold. Yes, really.</Bori_Adult_Trader.baseDesc>
+
+  <Bori_Adult_Singer.title>Bori idol trainee</Bori_Adult_Singer.title>
+  <Bori_Adult_Singer.titleShort>idol trainee</Bori_Adult_Singer.titleShort>
+  <Bori_Adult_Singer.baseDesc>One day, [PAWN_nameDef] heard an idol pop song on the radio. [PAWN_pronoun] was inspired to pursue [PAWN_possessive] dream and practiced singing and dancing every day with the hopes that [PAWN_pronoun] will one day become an idol [PAWN_objective]self.</Bori_Adult_Singer.baseDesc>
+
+  <Bori_Adult_Hunter.title>Bori hunter</Bori_Adult_Hunter.title>
+  <Bori_Adult_Hunter.titleShort>hunter</Bori_Adult_Hunter.titleShort>
+  <Bori_Adult_Hunter.baseDesc>[PAWN_nameDef] was the best hunter in [PAWN_possessive] pack. [PAWN_pronoun] loved everything about hunting: the lead bullets, the hot sparks, and the ecstasy in his fingers as [PAWN_pronoun] pulled the trigger. Hunting was [PAWN_nameDef]'s passion and [PAWN_pronoun] was proud to spill the blood of [PAWN_possessive] prey for [PAWN_possessive] community.</Bori_Adult_Hunter.baseDesc>
+
+  <Bori_Adult_Police.title>Bori police officer</Bori_Adult_Police.title>
+  <Bori_Adult_Police.titleShort>police officer</Bori_Adult_Police.titleShort>
+  <Bori_Adult_Police.baseDesc>[PAWN_nameDef] was a police officer responsible for the safety and security of [PAWN_possessive] community. [PAWN_possessive] job was primarily to subdue any rampaging Muffaloes, which made [PAWN_pronoun] very versatile.</Bori_Adult_Police.baseDesc>
+
+  <Bori_Adult_Exproler.title>Bori explorer</Bori_Adult_Exproler.title>
+  <Bori_Adult_Exproler.titleShort>explorer</Bori_Adult_Exproler.titleShort>
+  <Bori_Adult_Exproler.baseDesc>[PAWN_nameDef] was preparing to join an expedition to the world's most dangerous place. Whether or not [PAWN_pronoun] actually went is still a mystery, though.</Bori_Adult_Exproler.baseDesc>
+
+  <Bori_Adult_CustomMaid.title>Bori daycare worker</Bori_Adult_CustomMaid.title>
+  <Bori_Adult_CustomMaid.titleShort>daycare worker</Bori_Adult_CustomMaid.titleShort>
+  <Bori_Adult_CustomMaid.baseDesc>[PAWN_nameDef] was a daycare worker who watched over and protected the children of [PAWN_possessive] community. The children looked up to [PAWN_nameDef] as if [PAWN_pronoun] was their third parent.</Bori_Adult_CustomMaid.baseDesc>
+
+  <Bori_Adult_Slave.title>Bori captured slave</Bori_Adult_Slave.title>
+  <Bori_Adult_Slave.titleShort>slave</Bori_Adult_Slave.titleShort>
+  <Bori_Adult_Slave.baseDesc>[PAWN_nameDef] was taken captive one day and enslaved. Was this divine punishment for an unforgiveable sin? Perhaps it was the result of a kidnapping. Or was [PAWN_pronoun] a secret agent hiding [PAWN_possessive] identity? Nobody knew... All that mattered was that [PAWN_pronoun] was a slave.</Bori_Adult_Slave.baseDesc>
+
+  <Bori_A_Dog.title>Bori alpha dog</Bori_A_Dog.title>
+  <Bori_A_Dog.titleShort>alpha dog</Bori_A_Dog.titleShort>
+  <Bori_A_Dog.baseDesc>[PAWN_nameDef] was the leader of [PAWN_possessive] community.\n\nBecause of [PAWN_possessive] confidence and superior abilities, [PAWN_pronoun] was unanimously regarded as the alpha of the Bori. [PAWN_nameDef] was always there to lead [PAWN_possessive] community.</Bori_A_Dog.baseDesc>
+
+  <Bori_B_Dog.title>Bori beta dog</Bori_B_Dog.title>
+  <Bori_B_Dog.titleShort>beta dog</Bori_B_Dog.titleShort>
+  <Bori_B_Dog.baseDesc>[PAWN_nameDef] was not well-adapted to Bori society as a whole.\n\n[PAWN_pronoun] was not considered pretty and did not get along well with others, leading [PAWN_objective] to lead a lonely, single life. [PAWN_nameDef] is able to do any kind of work, but [PAWN_pronoun] is not particularly good at anything.</Bori_B_Dog.baseDesc>
+
+  <Bori_F_fighter.title>Bori firefighter</Bori_F_fighter.title>
+  <Bori_F_fighter.titleShort>firefighter</Bori_F_fighter.titleShort>
+  <Bori_F_fighter.baseDesc>[PAWN_nameDef] was a firefighter, the most honorable career a Bori can have other than soldier.\n\nThe Bori firefighters manage the fires that would destroy a community in an instant. It is no exaggeration to say that all the resources and buildings are present in Bori communities because of the hard work of [PAWN_nameDef] and other firefighters.</Bori_F_fighter.baseDesc>
+
+  <Bori_M_group.title>Bori herd member</Bori_M_group.title>
+  <Bori_M_group.titleShort>herd member</Bori_M_group.titleShort>
+  <Bori_M_group.baseDesc>[PAWN_nameDef] was an ordinary member of a Bori community. In larger communities, people like [PAWN_nameDef] would act as general laborers, and in smaller communities, they would work together without any sort of division of labor.</Bori_M_group.baseDesc>
+
+  <Bori_postgraduate.title>Bori graduate</Bori_postgraduate.title>
+  <Bori_postgraduate.titleShort>graduate</Bori_postgraduate.titleShort>
+  <Bori_postgraduate.baseDesc>[PAWN_nameDef]was an ordinary member of a Bori community who graduated from college. [PAWN_pronoun] did not end up doing much with [PAWN_possessive] degree, though.\n\nIn larger communities, people like [PAWN_nameDef] would act as general laborers, and in smaller communities, they would work together without any sort of division of labor.</Bori_postgraduate.baseDesc>
+
+  <Bori_guard.title>Bori bodyguard</Bori_guard.title>
+  <Bori_guard.titleShort>bodyguard</Bori_guard.titleShort>
+  <Bori_guard.baseDesc>[PAWN_nameDef] is a bodyguard who is employed primarily for personal protection. In Bori society, being a bodyguard is a fairly common profession, both in Bori communities and in settlements of other races. [PAWN_nameDef] was confident in [PAWN_possessive] abilities as a guard dog and found a position that suited [PAWN_objective].</Bori_guard.baseDesc>
+
+  <Bori_Footballer.title>Bori soccer player</Bori_Footballer.title>
+  <Bori_Footballer.titleShort>soccer player</Bori_Footballer.titleShort>
+  <Bori_Footballer.baseDesc>Run, kick, dribble, score.[PAWN_nameDef] was a famous soccer player. Soccer is a very important part of Bori society, even for those who didn't regularly watch or play. [PAWN_nameDef] dedicated [PAWN_objective]self to playing soccer professionally and became [PAWN_possessive] soccer team's biggest rising star.</Bori_Footballer.baseDesc>
+
+  <Bori_hooligan.title>Bori hooligan</Bori_hooligan.title>
+  <Bori_hooligan.titleShort>hooligan</Bori_hooligan.titleShort>
+  <Bori_hooligan.baseDesc>[PAWN_nameDef] wasn't actually that bad of a person. The usual [PAWN_nameDef] was a normal, ordinary Bori. But... when [PAWN_pronoun] stepped onto a soccer field... [PAWN_pronoun] lost control. [PAWN_nameDef] would always wake up hours later, not remembering a thing.</Bori_hooligan.baseDesc>
+
+  <Bori_farmer.title>Bori farmer</Bori_farmer.title>
+  <Bori_farmer.titleShort>farmer</Bori_farmer.titleShort>
+  <Bori_farmer.baseDesc>[PAWN_nameDef] was a farmer for [PAWN_possessive] community. While farming was usually considered a Sheepawn's job, [PAWN_nameDef] had a talent and passion for growing crops. [PAWN_pronoun] used [PAWN_possessive] home-grown produce to create delicious meals as well.</Bori_farmer.baseDesc>
+
+
+  <!-- 별종 -->
+
+  <Bori_designer.title>Bori designer</Bori_designer.title>
+  <Bori_designer.titleShort>designer</Bori_designer.titleShort>
+  <Bori_designer.baseDesc>Not many Bories dream of working in the arts.\n\nThose who do often dream of becoming designers, like many famous Sheepawns.\n\n[PAWN_nameDef] was no exception. In the pursuit of [PAWN_possessive] dream, [PAWN_pronoun] joined a Sheepawn designer's atelier as an assistant. [PAWN_nameDef] learned many valuable skills in clothing design from the Sheepawn masters, but often neglected [PAWN_possessive] physical health while doing so.</Bori_designer.baseDesc>
+
+  <Bori_Rock_star.title>Bori rockstar</Bori_Rock_star.title>
+  <Bori_Rock_star.titleShort>rockstar</Bori_Rock_star.titleShort>
+  <Bori_Rock_star.baseDesc>Not many Bories dream of working in the arts.\n\nBut [PAWN_nameDef] did. [PAWN_pronoun] was a Bori rockstar. [PAWN_pronoun] wasn't a celebrity, or an idiot, or an asshole, so [PAWN_pronoun] never had to deal with unnecessary censorship.</Bori_Rock_star.baseDesc>
+
+  <Bori_Assistant_researcher.title>Bori assistant researcher</Bori_Assistant_researcher.title>
+  <Bori_Assistant_researcher.titleShort>assistant researcher</Bori_Assistant_researcher.titleShort>
+  <Bori_Assistant_researcher.baseDesc>[PAWN_nameDef] was a researcher's assistant. [PAWN_pronoun] proved [PAWN_objective]self to be smarter than [PAWN_possessive] Bori peers and was able to become a Sheepawn scientist's assistant. While working alongside [PAWN_possessive] superiors, [PAWN_pronoun] was able to absorb a lot of Sheepawn knowledge.</Bori_Assistant_researcher.baseDesc>
+
+  <Bori_consul.title>Bori consul</Bori_consul.title>
+  <Bori_consul.titleShort>consul</Bori_consul.titleShort>
+  <Bori_consul.baseDesc>[PAWN_nameDef] followed Sheepawn diplomats from meeting to meeting, and soon gained the necessary skills and experience to become a consul. It is often said that Bori are brash and lack social etiquette, but [PAWN_nameDef] defied those stereotypes</Bori_consul.baseDesc>
+
+  <Bori_chef.title>Bori chef</Bori_chef.title>
+  <Bori_chef.titleShort>chef</Bori_chef.titleShort>
+  <Bori_chef.baseDesc>Your food is so simple that it makes me want to rip my guts out!!!!!!!</Bori_chef.baseDesc>
+
+  <Bori_student.title>Bori student</Bori_student.title>
+  <Bori_student.titleShort>student</Bori_student.titleShort>
+  <Bori_student.baseDesc>[PAWN_nameDef] was a student a a prestigious university. [PAWN_pronoun] studied hard, but made sure to enjoy the college life whenever possible. Simply put, [PAWN_nameDef] lived the ideal student life.</Bori_student.baseDesc>
+
+  <Bori_Movie.title>Bori movie star</Bori_Movie.title>
+  <Bori_Movie.titleShort>movie star</Bori_Movie.titleShort>
+  <Bori_Movie.baseDesc>Lights, camera, action! [PAWN_nameDef] was a movie star and was constantly praised for [PAWN_possessive] superior acting skills. [PAWN_possessive] latest film was considered the pinnacle of [PAWN_possessive] career, and swept the awards that year.</Bori_Movie.baseDesc>
+
+
+  <!-- 무법자 -->
+
+  <Bori_black_marketeer.title>Bori black marketeer</Bori_black_marketeer.title>
+  <Bori_black_marketeer.titleShort>black marketeer</Bori_black_marketeer.titleShort>
+  <Bori_black_marketeer.baseDesc>[PAWN_nameDef] was a black marketeer, specializing in contraband weapons taken from the National Guard.\n\nThese weapons are famous for their performance and are popular among other races, but since they are specially made for Bori, it's difficult for non-Bori to use them.</Bori_black_marketeer.baseDesc>
+
+  <Bori_black_boss.title>Bori mob boss</Bori_black_boss.title>
+  <Bori_black_boss.titleShort>mob boss</Bori_black_boss.titleShort>
+  <Bori_black_boss.baseDesc>[PAWN_nameDef] was a business tycoon for the criminal underworld. [PAWN_pronoun] was a natural leader, but [PAWN_pronoun] chose the path of infamy over the path of honor.\n\n"Never trust [PAWN_nameDef]. [PAWN_pronoun]'ll stab you in the back and spit on your grave just to get what [PAWN_pronoun] wants."</Bori_black_boss.baseDesc>
+
+  <Bori_Dingo.title>Bori dingo</Bori_Dingo.title>
+  <Bori_Dingo.titleShort>dingo</Bori_Dingo.titleShort>
+  <Bori_Dingo.baseDesc>When [PAWN_nameDef] arrived on the planet with the other Bori, [PAWN_pronoun] realized they were separated from their Sheepawns.\n\nNo matter how hard they tried, they couldn't find them. In the end, [PAWN_nameDef] and the other Bori became dingoes, Bori surviving through their instincts alone. As cold and emotionless as the dead.</Bori_Dingo.baseDesc>
+
+  <Bori_Chave.title>Bori thug</Bori_Chave.title>
+  <Bori_Chave.titleShort>thug</Bori_Chave.titleShort>
+  <Bori_Chave.baseDesc>[PAWN_nameDef] was a thug. [PAWN_pronoun] used [PAWN_pronoun] fists instead of words, mugging people and stealing wallets to buy name brand clothes and other luxuries.</Bori_Chave.baseDesc>
+
+  <Bori_Adult_Builder.title>Bori architect</Bori_Adult_Builder.title>
+  <Bori_Adult_Builder.titleShort>architect</Bori_Adult_Builder.titleShort>
+  <Bori_Adult_Builder.baseDesc>[PAWN_nameDef] was [PAWN_possessive] community's greatest architect and builder. [PAWN_pronoun] led the community to prosperity by fixing roads, designing and building defense towers, and planting flags in the plains to mark their territory.</Bori_Adult_Builder.baseDesc>
+
+  <Bori_long_family.title>Bori mob family member</Bori_long_family.title>
+  <Bori_long_family.titleShort>mob family member</Bori_long_family.titleShort>
+  <Bori_long_family.baseDesc>[PAWN_nameDef] was a fringe member adopted into a large and powerful mob family. [PAWN_pronoun] thought that being a part of a mob family looked cool in a lot of movies, but the reality of the situation was different that what [PAWN_pronoun] imagined. Luckily, the family that [PAWN_nameDef] joined was very wealthy, so [PAWN_pronoun] rarely had to get [PAWN_possessive] hands dirty.</Bori_long_family.baseDesc>
+
+
+  <!-- 방위군 -->
+
+  <Bori_B_scout.title>Bori National Guard scout</Bori_B_scout.title>
+  <Bori_B_scout.titleShort>scout</Bori_B_scout.titleShort>
+  <Bori_B_scout.baseDesc>[PAWN_nameDef] was a scout for the National Guard. National Guard scouts scout out areas outside of Bori territory and report back any important information they find. Scouts like [PAWN_nameDef] are trained in first aid for emergency situations and rarely have time for artistic hobbies.\n\nAmong the Bori, scouts are one of the most popular types of soldiers due to their frequent deployment. That's the reason why [PAWN_nameDef] became a scout.</Bori_B_scout.baseDesc>
+
+  <Bori_b_nurse_officer.title>Bori National Guard nursing officer</Bori_b_nurse_officer.title>
+  <Bori_b_nurse_officer.titleShort>nursing officer</Bori_b_nurse_officer.titleShort>
+  <Bori_b_nurse_officer.baseDesc>[PAWN_nameDef] was a nursing officer for the National Guard who was tasked with helping Sheepawn treat the wounded in [PAWN_possessive] unit. On the battlefield, [PAWN_pronoun] was entrusted with the role of field medic in place of a Sheepawn.\n\n[PAWN_nameDef] was medically capable, but was not as equipped for combat compared to the other National Guard soldiers.</Bori_b_nurse_officer.baseDesc>
+
+  <Bori_B_soldier.title>Bori National Guard rifleman</Bori_B_soldier.title>
+  <Bori_B_soldier.titleShort>rifleman</Bori_B_soldier.titleShort>
+  <Bori_B_soldier.baseDesc>[PAWN_nameDef] was a soldier for the National Guard.\n\nIn Bori society, every Bori receives mandatory military training at the age of 16, which is considered the age of adulthood. However, [PAWN_nameDef] enlisted into the National Guard after [PAWN_possessive] training was completed.\n\nAs a soldier, [PAWN_nameDef] is the basis for all Bori military formations.</Bori_B_soldier.baseDesc>
+
+  <Bori_B_Shield.title>Bori National Guard guardsman</Bori_B_Shield.title>
+  <Bori_B_Shield.titleShort>guardsman</Bori_B_Shield.titleShort>
+  <Bori_B_Shield.baseDesc>[PAWN_nameDef] was a guardsman for the National Guard.\n\nIn Bori society, every Bori receives mandatory military training at the age of 16, which is considered the age of adulthood. However, [PAWN_nameDef] enlisted into the National Guard after [PAWN_possessive] training was completed.\n\nGuardsman like [PAWN_nameDef] are considered to be elite soldiers, higher in rank than regular soldiers.</Bori_B_Shield.baseDesc>
+
+  <Bori_B_Machine.title>Bori National Guard machine gunner</Bori_B_Machine.title>
+  <Bori_B_Machine.titleShort>machine gunner</Bori_B_Machine.titleShort>
+  <Bori_B_Machine.baseDesc>[PAWN_nameDef] was a machine gun operator for the National Guard.\n\nIn Bori society, every Bori receives mandatory military training at the age of 16, which is considered the age of adulthood. However,[PAWN_nameDef] enlisted into the National Guard after [PAWN_possessive] training was completed.\n\n[PAWN_nameDef] manned machine guns deployed on the battlefield. The sound of [PAWN_objective] operating the machine gun was akin to a chainsaw.</Bori_B_Machine.baseDesc>
+
+  <Bori_B_Sniper.title>Bori National Guard sniper</Bori_B_Sniper.title>
+  <Bori_B_Sniper.titleShort>sniper</Bori_B_Sniper.titleShort>
+  <Bori_B_Sniper.baseDesc>[PAWN_nameDef] was a sniper for the National Guard.\n\nIn Bori society, every Bori receives mandatory military training at the age of 16, which is considered the age of adulthood. However, [PAWN_nameDef] enlisted into the National Guard after [PAWN_possessive] training was completed.\n\nSnipers such as [PAWN_nameDef] were used to stealthily eliminate enemies from afar.</Bori_B_Sniper.baseDesc>
+
+  <Bori_B_Officer.title>Bori National Guard officer</Bori_B_Officer.title>
+  <Bori_B_Officer.titleShort>officer</Bori_B_Officer.titleShort>
+  <Bori_B_Officer.baseDesc>[PAWN_nameDef] was an officer of the National Guard. [PAWN_pronoun] wore a loose-fitting uniform and devoted [PAWN_objective]self to [PAWN_possessive] duties, hoping to one day be promoted to general.</Bori_B_Officer.baseDesc>
+
+  <Bori_B_General.title>Bori National Guard general</Bori_B_General.title>
+  <Bori_B_General.titleShort>general</Bori_B_General.titleShort>
+  <Bori_B_General.baseDesc>[PAWN_nameDef] was a general for the National Guard.\n\nContrary to popular belief, any Bori can become a general in the National Guard. If a Bori is eligible for promotion, they can opt into a year of intensive training to become a general themselves.</Bori_B_General.baseDesc>
+
+  <Bori_B_Dsoldier.title>Bori National Guard K9 officer</Bori_B_Dsoldier.title>
+  <Bori_B_Dsoldier.titleShort>K9 officer</Bori_B_Dsoldier.titleShort>
+  <Bori_B_Dsoldier.baseDesc>[PAWN_nameDef] was a K9 officer for the National Guard.\n\nIn Bori society, every Bori receives mandatory military training at the age of 16, which is considered the age of adulthood. However, [PAWN_nameDef] enlisted into the National Guard after [PAWN_possessive] training was completed.\n\n[PAWN_nameDef] operated submachine guns and handled military dogs. If a dog is in charge of another dog, that makes them an alpha dog, right?</Bori_B_Dsoldier.baseDesc>
+
+
+  <!-- 영현대 -->
+
+  <Bori_0_soldier.title>Bori Imperial Guard rifleman</Bori_0_soldier.title>
+  <Bori_0_soldier.titleShort>Imperial rifleman</Bori_0_soldier.titleShort>
+  <Bori_0_soldier.baseDesc>The Imperial Guard are the units that protect the National Cemetery, where all Bori soldiers are laid to rest. Those in the Imperial Guard are considered to be the most elite units of the National Guard.\n\nRiflemen are the basis of the Imperial Guard. All members of the Imperial Guard are fundamentally rifleman and can operate a rifle with ease.\n\n[PAWN_nameDef] dreamed of becoming a part of the Imperial Guard [PAWN_possessive] entire life, and finally managed to achieve that dream. [PAWN_pronoun] had the honor of being one of the first Imperial Guards on this new planet.\n\n"Hold your head high. From now on, you are a part of the glorious Imperial Guard."</Bori_0_soldier.baseDesc>
+
+  <Bori_0_Machine.title>Bori Imperial Guard machine gunner</Bori_0_Machine.title>
+  <Bori_0_Machine.titleShort>Imperial machine gunner</Bori_0_Machine.titleShort>
+  <Bori_0_Machine.baseDesc>The Imperial Guard are the units that protect the National Cemetery, where all Bori soldiers are laid to rest. Those in the Imperial Guard are considered to be the most elite units of the National Guard.\n\nImperial Guard machine gunners operate the weapons from atop the defensive towers, ready to sweep through any enemy who dares trepass.\n\n[PAWN_nameDef] dreamed of becoming a part of the Imperial Guard [PAWN_possessive] entire life, and finally managed to achieve that dream. [PAWN_pronoun] had the honor of being one of the first Imperial Guards on this new planet.\n\n"...We are the guardians of the spirits who have reached God..."</Bori_0_Machine.baseDesc>
+
+  <Bori_0_Sniper.title>Bori Imperial Guard sniper</Bori_0_Sniper.title>
+  <Bori_0_Sniper.titleShort>Imperial sniper</Bori_0_Sniper.titleShort>
+  <Bori_0_Sniper.baseDesc>The Imperial Guard are the units that protect the National Cemetery, where all Bori soldiers are laid to rest. Those in the Imperial Guard are considered to be the most elite units of the National Guard.\n\nImperial Guard snipers survey the land surrounding the National Cemetery, watching for far-away threats they could eliminate.\n\n[PAWN_nameDef] dreamed of becoming a part of the Imperial Guard [PAWN_possessive] entire life, and finally managed to achieve that dream. [PAWN_pronoun] had the honor of being one of the first Imperial Guards on this new planet.\n\n"For my fallen friends."</Bori_0_Sniper.baseDesc>
+
+  <Bori_0_Shield.title>Bori Imperial Guard guardsman</Bori_0_Shield.title>
+  <Bori_0_Shield.titleShort>Imperial guardsman</Bori_0_Shield.titleShort>
+  <Bori_0_Shield.baseDesc>The Imperial Guard are the units that protect the National Cemetery, where all Bori soldiers are laid to rest. Those in the Imperial Guard are considered to be the most elite units of the National Guard.\n\nImperial Guard guardsman use themselves as shields, blocking the enemy from entering in order to annihilate them.\n\n[PAWN_nameDef] dreamed of becoming a part of the Imperial Guard [PAWN_possessive] entire life, and finally managed to achieve that dream. [PAWN_pronoun] had the honor of being one of the first Imperial Guards on this new planet.\n\n"For my loved ones at home."</Bori_0_Shield.baseDesc>
+
+  <Bori_0_Assult.title>Bori Imperial Guard assault trooper</Bori_0_Assult.title>
+  <Bori_0_Assult.titleShort>Imperial assault trooper</Bori_0_Assult.titleShort>
+  <Bori_0_Assult.baseDesc>The Imperial Guard are the units that protect the National Cemetery, where all Bori soldiers are laid to rest. Those in the Imperial Guard are considered to be the most elite units of the National Guard.\n\nImperial Guard assault troopers wield submachine guns and flank the enemies.\n\n[PAWN_nameDef] dreamed of becoming a part of the Imperial Guard [PAWN_possessive] entire life, and finally managed to achieve that dream. [PAWN_pronoun] had the honor of being one of the first Imperial Guards on this new planet.\n\n"I am the protector of these noble spirits laid to rest, and the destroyer of those who wish to disturb them."</Bori_0_Assult.baseDesc>
+
+  <Bori_0_Leader.title>Bori Imperial Guard commander</Bori_0_Leader.title>
+  <Bori_0_Leader.titleShort>Imperial commander</Bori_0_Leader.titleShort>
+  <Bori_0_Leader.baseDesc>The Imperial Guard are the units that protect the National Cemetery, where all Bori soldiers are laid to rest. Those in the Imperial Guard are considered to be the most elite units of the National Guard.\n\nAn Imperial Guard member ascends to the rank of commander after countless victories in battle.\n\n[PAWN_nameDef] dreamed of becoming a part of the Imperial Guard [PAWN_possessive] entire life, and finally managed to achieve that dream. [PAWN_pronoun] had the honor of being one of the first Imperial Guards on this new planet.\n\n"... Just like the spirits of these buried heroes... Your name may not be spoken, but your deeds have made you immortal."</Bori_0_Leader.baseDesc>
+
+
+</LanguageData>

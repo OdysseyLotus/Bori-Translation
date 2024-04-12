@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- HPF.HPFWorkGiverDef is inheritance of WorkGiverDef with some additional arguments -->
+
+  <ExtractOrion_Work.label>shear aries</ExtractOrion_Work.label>
+  <ExtractOrion_Work.verb>shear</ExtractOrion_Work.verb>
+  <ExtractOrion_Work.gerund>shearing aries</ExtractOrion_Work.gerund>
+
+  <Extract_SP_Milk_Work.label>milk</Extract_SP_Milk_Work.label>
+  <Extract_SP_Milk_Work.verb>milk</Extract_SP_Milk_Work.verb>
+  <Extract_SP_Milk_Work.gerund>milking</Extract_SP_Milk_Work.gerund>
+
+
+</LanguageData>
