@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 담쟁이덩굴 열매 효과 -->
+
+  <IvyFruitHigh.stages.0.label>ate ivy fruit</IvyFruitHigh.stages.0.label>
+  <IvyFruitHigh.stages.0.description>I think this does more than just wake me up... ha ha...</IvyFruitHigh.stages.0.description>
+
+
+  <!-- 담쟁이덩굴 열매 부작용 -->
+
+  <IvyFruitWithdrawal.stages.1.label>ivy fruit withdrawal</IvyFruitWithdrawal.stages.1.label>
+  <IvyFruitWithdrawal.stages.1.description>Please... let me have some more... before it gets worse.</IvyFruitWithdrawal.stages.1.description>
+
+
+</LanguageData>

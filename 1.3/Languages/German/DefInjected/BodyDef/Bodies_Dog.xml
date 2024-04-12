@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bori.label>bori</Bori.label>
+  <Bori.corePart.parts.3.customLabel>tail</Bori.corePart.parts.3.customLabel>
+  <Bori.corePart.parts.7.customLabel>left lung</Bori.corePart.parts.7.customLabel>
+  <Bori.corePart.parts.8.customLabel>right lung</Bori.corePart.parts.8.customLabel>
+  <Bori.corePart.parts.9.customLabel>left kidney</Bori.corePart.parts.9.customLabel>
+  <Bori.corePart.parts.10.customLabel>right kidney</Bori.corePart.parts.10.customLabel>
+  <Bori.corePart.parts.12.parts.0.parts.1.customLabel>left eye</Bori.corePart.parts.12.parts.0.parts.1.customLabel>
+  <Bori.corePart.parts.12.parts.0.parts.2.customLabel>right eye</Bori.corePart.parts.12.parts.0.parts.2.customLabel>
+  <Bori.corePart.parts.12.parts.0.parts.3.customLabel>left ear</Bori.corePart.parts.12.parts.0.parts.3.customLabel>
+  <Bori.corePart.parts.12.parts.0.parts.4.customLabel>right ear</Bori.corePart.parts.12.parts.0.parts.4.customLabel>
+  <Bori.corePart.parts.13.customLabel>left shoulder</Bori.corePart.parts.13.customLabel>
+  <Bori.corePart.parts.13.parts.0.customLabel>left clavicle</Bori.corePart.parts.13.parts.0.customLabel>
+  <Bori.corePart.parts.13.parts.1.customLabel>left arm</Bori.corePart.parts.13.parts.1.customLabel>
+  <Bori.corePart.parts.13.parts.1.parts.0.customLabel>left humerus</Bori.corePart.parts.13.parts.1.parts.0.customLabel>
+  <Bori.corePart.parts.13.parts.1.parts.1.customLabel>left radius</Bori.corePart.parts.13.parts.1.parts.1.customLabel>
+  <Bori.corePart.parts.13.parts.1.parts.2.customLabel>left hand</Bori.corePart.parts.13.parts.1.parts.2.customLabel>
+  <Bori.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>left pinky finger</Bori.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <Bori.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>left ring finger</Bori.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <Bori.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>left middle finger</Bori.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <Bori.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>left index finger</Bori.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <Bori.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>left thumb</Bori.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <Bori.corePart.parts.14.customLabel>right shoulder</Bori.corePart.parts.14.customLabel>
+  <Bori.corePart.parts.14.parts.0.customLabel>right clavicle</Bori.corePart.parts.14.parts.0.customLabel>
+  <Bori.corePart.parts.14.parts.1.customLabel>right arm</Bori.corePart.parts.14.parts.1.customLabel>
+  <Bori.corePart.parts.14.parts.1.parts.0.customLabel>right humerus</Bori.corePart.parts.14.parts.1.parts.0.customLabel>
+  <Bori.corePart.parts.14.parts.1.parts.1.customLabel>right radius</Bori.corePart.parts.14.parts.1.parts.1.customLabel>
+  <Bori.corePart.parts.14.parts.1.parts.2.customLabel>right hand</Bori.corePart.parts.14.parts.1.parts.2.customLabel>
+  <Bori.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>right pinky finger</Bori.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>
+  <Bori.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>right ring finger</Bori.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>
+  <Bori.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>right middle finger</Bori.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>
+  <Bori.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>right index finger</Bori.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>
+  <Bori.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>right thumb</Bori.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>
+  <Bori.corePart.parts.16.customLabel>left leg</Bori.corePart.parts.16.customLabel>
+  <Bori.corePart.parts.16.parts.0.customLabel>left femur</Bori.corePart.parts.16.parts.0.customLabel>
+  <Bori.corePart.parts.16.parts.1.customLabel>left tibia</Bori.corePart.parts.16.parts.1.customLabel>
+  <Bori.corePart.parts.16.parts.2.customLabel>left foot</Bori.corePart.parts.16.parts.2.customLabel>
+  <Bori.corePart.parts.16.parts.2.parts.0.customLabel>left little toe</Bori.corePart.parts.16.parts.2.parts.0.customLabel>
+  <Bori.corePart.parts.16.parts.2.parts.1.customLabel>left fourth toe</Bori.corePart.parts.16.parts.2.parts.1.customLabel>
+  <Bori.corePart.parts.16.parts.2.parts.2.customLabel>left middle toe</Bori.corePart.parts.16.parts.2.parts.2.customLabel>
+  <Bori.corePart.parts.16.parts.2.parts.3.customLabel>left second toe</Bori.corePart.parts.16.parts.2.parts.3.customLabel>
+  <Bori.corePart.parts.16.parts.2.parts.4.customLabel>left big toe</Bori.corePart.parts.16.parts.2.parts.4.customLabel>
+  <Bori.corePart.parts.17.customLabel>right leg</Bori.corePart.parts.17.customLabel>
+  <Bori.corePart.parts.17.parts.0.customLabel>right femur</Bori.corePart.parts.17.parts.0.customLabel>
+  <Bori.corePart.parts.17.parts.1.customLabel>right tibia</Bori.corePart.parts.17.parts.1.customLabel>
+  <Bori.corePart.parts.17.parts.2.customLabel>right foot</Bori.corePart.parts.17.parts.2.customLabel>
+  <Bori.corePart.parts.17.parts.2.parts.0.customLabel>right little toe</Bori.corePart.parts.17.parts.2.parts.0.customLabel>
+  <Bori.corePart.parts.17.parts.2.parts.1.customLabel>right fourth toe</Bori.corePart.parts.17.parts.2.parts.1.customLabel>
+  <Bori.corePart.parts.17.parts.2.parts.2.customLabel>right middle toe</Bori.corePart.parts.17.parts.2.parts.2.customLabel>
+  <Bori.corePart.parts.17.parts.2.parts.3.customLabel>right second toe</Bori.corePart.parts.17.parts.2.parts.3.customLabel>
+  <Bori.corePart.parts.17.parts.2.parts.4.customLabel>right big toe</Bori.corePart.parts.17.parts.2.parts.4.customLabel>
+
+
+</LanguageData>

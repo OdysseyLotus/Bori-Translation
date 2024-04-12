@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ParentName은 쓰기 전에 반드시 확인할것 -->
+
+  <SPBD_IvyTea.label>ivy tea</SPBD_IvyTea.label>
+  <SPBD_IvyTea.description>A purple tea made from ivy fruit. It is considered to be a staple part of sheep and dog society. It is bitter yet delicious, with sugar, milk, or honey often added in to suit the drinker. Although small, it does provide boosts to both alertness and mood.</SPBD_IvyTea.description>
+  <SPBD_IvyTea.ingestible.ingestCommandString>drink {0}</SPBD_IvyTea.ingestible.ingestCommandString>
+  <SPBD_IvyTea.ingestible.ingestReportString>drinking {0}.</SPBD_IvyTea.ingestible.ingestReportString>
+
+
+</LanguageData>

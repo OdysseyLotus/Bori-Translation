@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BR_NeedOutdoors.stages.0.label>I need to go for a walk! I want to run around outside!</BR_NeedOutdoors.stages.0.label>
+  <BR_NeedOutdoors.stages.0.description>...Ugh.</BR_NeedOutdoors.stages.0.description>
+  <BR_NeedOutdoors.stages.1.label>I seriously need to go out for a walk.</BR_NeedOutdoors.stages.1.label>
+  <BR_NeedOutdoors.stages.1.description>Ah, my body is itching to go!</BR_NeedOutdoors.stages.1.description>
+  <BR_NeedOutdoors.stages.2.label>Craving a walk</BR_NeedOutdoors.stages.2.label>
+  <BR_NeedOutdoors.stages.2.description>It's been a while since I've had a walk outside.</BR_NeedOutdoors.stages.2.description>
+  <BR_NeedOutdoors.stages.3.label>Wanting a walk</BR_NeedOutdoors.stages.3.label>
+  <BR_NeedOutdoors.stages.3.description>A walk sure does sound nice right about now.</BR_NeedOutdoors.stages.3.description>
+  <BR_NeedOutdoors.stages.4.label>Thinking about walking</BR_NeedOutdoors.stages.4.label>
+  <BR_NeedOutdoors.stages.4.description>Hmm... I wonder what's going on outside...</BR_NeedOutdoors.stages.4.description>
+
+  <BR_SleptInBarracks.stages.0.label>awful barracks</BR_SleptInBarracks.stages.0.label>
+  <BR_SleptInBarracks.stages.0.description>Well... at least I have a place to sleep.</BR_SleptInBarracks.stages.0.description>
+  <BR_SleptInBarracks.stages.1.label>dull barracks</BR_SleptInBarracks.stages.1.label>
+  <BR_SleptInBarracks.stages.1.description>Well... at least I have a place to sleep.</BR_SleptInBarracks.stages.1.description>
+  <BR_SleptInBarracks.stages.2.label>mediocre barracks</BR_SleptInBarracks.stages.2.label>
+  <BR_SleptInBarracks.stages.2.description>I'm good just hanging out with friends. This is enough for me.</BR_SleptInBarracks.stages.2.description>
+  <BR_SleptInBarracks.stages.3.label>decent barracks</BR_SleptInBarracks.stages.3.label>
+  <BR_SleptInBarracks.stages.3.description>I'm good just hanging out with friends. This is enough for me.</BR_SleptInBarracks.stages.3.description>
+  <BR_SleptInBarracks.stages.4.label>slightly impressive barracks</BR_SleptInBarracks.stages.4.label>
+  <BR_SleptInBarracks.stages.4.description>Huh... this is better than expected.</BR_SleptInBarracks.stages.4.description>
+  <BR_SleptInBarracks.stages.5.label>impressive barracks</BR_SleptInBarracks.stages.5.label>
+  <BR_SleptInBarracks.stages.5.description>Huh... this is better than expected.</BR_SleptInBarracks.stages.5.description>
+  <BR_SleptInBarracks.stages.6.label>very impressive barracks</BR_SleptInBarracks.stages.6.label>
+  <BR_SleptInBarracks.stages.6.description>Wow, I woke up and my back isn't hurting?</BR_SleptInBarracks.stages.6.description>
+  <BR_SleptInBarracks.stages.7.label>extremely impressive barracks</BR_SleptInBarracks.stages.7.label>
+  <BR_SleptInBarracks.stages.7.description>Wow, I woke up and my back isn't hurting?</BR_SleptInBarracks.stages.7.description>
+  <BR_SleptInBarracks.stages.8.label>unbelievably impressive barracks</BR_SleptInBarracks.stages.8.label>
+  <BR_SleptInBarracks.stages.8.description>>... I could never imagine such amazing barracks... I'm speechless.</BR_SleptInBarracks.stages.8.description>
+  <BR_SleptInBarracks.stages.9.label>wondrously impressive barracks</BR_SleptInBarracks.stages.9.label>
+  <BR_SleptInBarracks.stages.9.description>... I could never imagine such amazing barracks... I'm speechless.</BR_SleptInBarracks.stages.9.description>
+
+
+</LanguageData>
