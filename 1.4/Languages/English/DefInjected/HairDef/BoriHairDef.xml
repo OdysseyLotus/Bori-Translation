@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 남자 -->
+
+  <Br_Shot.label>Bori short</Br_Shot.label>
+  <Br_Middle.label>Bori medium</Br_Middle.label>
+
+
+  <!-- 여자 -->
+
+  <Br_Shot_F.label>Bori short (female)</Br_Shot_F.label>
+  <Br_Middle_F.label>Bori medium (female)</Br_Middle_F.label>
+  <Br_Long_F.label>Bori long (female)</Br_Long_F.label>
+
+
+</LanguageData>

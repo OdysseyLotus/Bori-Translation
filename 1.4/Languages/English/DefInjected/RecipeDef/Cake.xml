@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_SPCake.label>bake a Sheepawn cake</Make_SPCake.label>
+  <Make_SPCake.description>Mix together grains and milk to bake a sweet cake.</Make_SPCake.description>
+  <Make_SPCake.jobString>Baking a cake.</Make_SPCake.jobString>
+
+
+</LanguageData>

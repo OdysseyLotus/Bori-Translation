@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+	<BD_CasualClothes.description>A set of casual clothes that is light and easy to wear. It is made out of material that is easy to repair.</BD_CasualClothes.description>
+	<BD_CasualClothes.label>Bori casual shirt</BD_CasualClothes.label>
+
+
+	<BD_WorkClothes.description>A set of work clothes with suspenders. It is very comfortable and easy to keep on because of the suspenders.</BD_WorkClothes.description>
+	<BD_WorkClothes.label>Bori work clothes</BD_WorkClothes.label>
+
+
+	<BD_NewsboyCap.description>A Bori's newsboy cap. The hat is specially made to not block sound, so Bori can hear well even if their ears are inside the cap.</BD_NewsboyCap.description>
+	<BD_NewsboyCap.label>Bori newsboy cap</BD_NewsboyCap.label>
+
+
+	<BD_IndSoldierUniform.description>A military uniform for Bori, in which a trench coat is worn over work clothes. By carefully stitching the two layers together, it is decently bulletproof.</BD_IndSoldierUniform.description>
+	<BD_IndSoldierUniform.label>Bori military uniform</BD_IndSoldierUniform.label>
+
+
+	<BD_IndSoldierUniform_Flak.description>A Bori combat uniform fastened to a military uniform.\nThat's it, that's it.\nYou've aways been able to separate life and death.\n\nIt's raining. It seems the season of death has arrived.\n\nSpring rain.\n\nYou're not dead yet.\nDo you still believe in the turn of the seasons on Eden?\n\nDo you believe in the season of death?\n\n\nMaybe if you look for it, you'll find a season to live.\n\nAnd you're not dead yet.\n\nTruly, you live boldly.</BD_IndSoldierUniform_Flak.description>
+	<BD_IndSoldierUniform_Flak.label>Bori military uniform</BD_IndSoldierUniform_Flak.label>
+
+
+	<BD_IndHelmet.description>A military cap.</BD_IndHelmet.description>
+	<BD_IndHelmet.label>Bori military cap</BD_IndHelmet.label>
+
+
+	<BD_IndSoldierArmour.description>A set of armor worn over work clothes. Well-suited for those who engage in melee combat.</BD_IndSoldierArmour.description>
+	<BD_IndSoldierArmour.label>Bori military armor</BD_IndSoldierArmour.label>
+
+
+	<BD_IndArmHelmet.description>A military helmet that perfectly protects the wearer's head. It is advised to put aside any doubts about its quality. Questioning the integrity of the helmet, whether for industrial or military activities, and foregoing its use can lead to death.</BD_IndArmHelmet.description>
+	<BD_IndArmHelmet.label>Bori military helmet</BD_IndArmHelmet.label>
+
+
+	<BD_MilitaryStyleCoat.description>A winter coat made in a military-style. Originally used by the National Guard, it is now frequently worn by ordinary men and women.</BD_MilitaryStyleCoat.description>
+	<BD_MilitaryStyleCoat.label>Bori winter military coat</BD_MilitaryStyleCoat.label>
+
+
+	<BD_PeakedCap.description>An official hat for military officials.</BD_PeakedCap.description>
+	<BD_PeakedCap.label>Bori official's hat</BD_PeakedCap.label>
+
+
+	<BD_WindbreakPoncho.description>A poncho frequently made at the request of the National Guard. It is often used as casual wear. Previously, it was used when Bori initially lived a very nomadic lifestyle.</BD_WindbreakPoncho.description>
+	<BD_WindbreakPoncho.label>Bori poncho</BD_WindbreakPoncho.label>
+
+
+	<BD_Flak_Vest.description>An industrial bulletproof plate made by welding metal plates together, reminiscent of a flak vest. It is heavy and dense, but it's much lighter than the heavy weight of death.</BD_Flak_Vest.description>
+	<BD_Flak_Vest.label>Bori industrial flak plate</BD_Flak_Vest.label>
+
+
+	<Bori_DogTag.description>An identification tag worn by soldiers on Eden to quickly check a soldier's personal information.\n\nIn Bori society, it is colloquially refered to as a dog collar. It enhances the wearer's courage and social status.\n\n\n\nThus, you too are bound. Into the abyss where neither living nor dead can escape.\n\nIf this is hell, what is paradise?\n\nWhy are you looking for paradise after you've run away from it?</Bori_DogTag.description>
+	<Bori_DogTag.label>Bori dog tags</Bori_DogTag.label>
+
+
+</LanguageData>

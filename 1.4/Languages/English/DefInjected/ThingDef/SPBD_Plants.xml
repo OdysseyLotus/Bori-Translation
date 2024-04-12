@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+  <SPBD_Ivy.label>ivy</SPBD_Ivy.label>
+  <SPBD_Ivy.description>A vine with sharp thorns. Bori usually grow this vine as a sort of defense against intruders. It also produces that popular ivy fruit, commonly used in ivy tea.</SPBD_Ivy.description>
+  
+  <PULEUN_PLANT_CRYSTAL.label>blue crystal flower</PULEUN_PLANT_CRYSTAL.label>
+  <PULEUN_PLANT_CRYSTAL.description>A crystalline flower that emits a soft blue light.\nAs the name suggests, when the flower fully blooms, it leaves behind a blue crystal.\nThis crystal is incredibly valuable, as it passively stores the ley line energy of the planet.\n\nThis crystal also acts as the seed of the flower.\nThe flower spreads its seeds rather violently, as the crystal will eventually explode into many fragments, spreading it far and wide. This process takes a long time, so these seeds aren't usually considered volatile; however, the crystal are their most valuable the closer they are to exploding, as they have the most energy stored.</PULEUN_PLANT_CRYSTAL.description>
+  
+  <PULEUN_PLANT_FABRIC.label>blue bio-fiber</PULEUN_PLANT_FABRIC.label>
+  <PULEUN_PLANT_FABRIC.description>A fibrous tissue that is naturally formed during the growth of the blue crystal flower. Its most notable feature is its ability to self-regenerate. Although the speed is very slow in comparison to nanotech clothing, its ability to return to its original form is remarkable. It makes it highly useful in both the medical industry and day-to-day use.</PULEUN_PLANT_FABRIC.description>
+
+
+</LanguageData>

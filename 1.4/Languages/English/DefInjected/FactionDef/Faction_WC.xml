@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bori_WC_Faction.label>New Eden Wisteria Coalition</Bori_WC_Faction.label>
+  <Bori_WC_Faction.description>A coalition created by the AOC Company and New Eden's exploration team to combat interstellar threats using technology recovered from the fallen planet, Wistera.</Bori_WC_Faction.description>
+  <Bori_WC_Faction.pawnSingular>Wisteria Coalition member</Bori_WC_Faction.pawnSingular>
+  <Bori_WC_Faction.pawnsPlural>Wisteria Coalition members</Bori_WC_Faction.pawnsPlural>
+  <Bori_WC_Faction.leaderTitle>commander</Bori_WC_Faction.leaderTitle>
+
+
+</LanguageData>

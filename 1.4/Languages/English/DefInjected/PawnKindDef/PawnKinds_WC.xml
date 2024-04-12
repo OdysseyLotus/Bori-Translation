@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+	<!-- Civilians -->
+
+	<WC_CIVIL_OFFICER.label>Wisteria Coalition office worker</WC_CIVIL_OFFICER.label>
+	<WC_CIVIL_OFFICER.labelPlural>Wisteria Coalition office workers</WC_CIVIL_OFFICER.labelPlural>
+	<WC_CIVIL_OFFICER.labelMale>male Wisteria Coalition office worker</WC_CIVIL_OFFICER.labelMale>
+	<WC_CIVIL_OFFICER.labelMalePlural>male Wisteria Coalition office workers</WC_CIVIL_OFFICER.labelMalePlural>
+	<WC_CIVIL_OFFICER.labelFemale>female Wisteria Coalition office worker</WC_CIVIL_OFFICER.labelFemale>
+	<WC_CIVIL_OFFICER.labelFemalePlural>female Wisteria Coalition office workers</WC_CIVIL_OFFICER.labelFemalePlural>
+
+	<WC_CIVIL_EXECUTIVE.label>Wisteria Coalition executive</WC_CIVIL_EXECUTIVE.label>
+	<WC_CIVIL_EXECUTIVE.labelPlural>Wisteria Coalition executives</WC_CIVIL_EXECUTIVE.labelPlural>
+	<WC_CIVIL_EXECUTIVE.labelMale>male Wisteria Coalition executive</WC_CIVIL_EXECUTIVE.labelMale>
+	<WC_CIVIL_EXECUTIVE.labelMalePlural>male Wisteria Coalition executives</WC_CIVIL_EXECUTIVE.labelMalePlural>
+	<WC_CIVIL_EXECUTIVE.labelFemale>female Wisteria Coalition executive</WC_CIVIL_EXECUTIVE.labelFemale>
+	<WC_CIVIL_EXECUTIVE.labelFemalePlural>female Wisteria Coalition executives</WC_CIVIL_EXECUTIVE.labelFemalePlural>
+
+
+	<!-- Light Infantry -->
+	
+	<WC_RANGED.label>Wisteria Coalition infantry</WC_RANGED.label>
+	<WC_RANGED.labelPlural>Wisteria Coalition infantry</WC_RANGED.labelPlural>
+	<WC_RANGED.labelMale>male Wisteria Coalition infantry</WC_RANGED.labelMale>
+	<WC_RANGED.labelMalePlural>male Wisteria Coalition infantry</WC_RANGED.labelMalePlural>
+	<WC_RANGED.labelFemale>female Wisteria Coalition infantry</WC_RANGED.labelFemale>
+	<WC_RANGED.labelFemalePlural>female Wisteria Coalition infantry</WC_RANGED.labelFemalePlural>
+
+	<WC_MELEE.label>Wisteria Coalition melee infantry</WC_MELEE.label>
+	<WC_MELEE.labelPlural>Wisteria Coalition melee infantry</WC_MELEE.labelPlural>
+	<WC_MELEE.labelMale>male Wisteria Coalition melee infantry</WC_MELEE.labelMale>
+	<WC_MELEE.labelMalePlural>male Wisteria Coalition melee infantry</WC_MELEE.labelMalePlural>
+	<WC_MELEE.labelFemale>female Wisteria Coalition melee infantry</WC_MELEE.labelFemale>
+	<WC_MELEE.labelFemalePlural>female Wisteria Coalition melee infantry</WC_MELEE.labelFemalePlural>
+
+	<WC_MARKSMAN.label>Wisteria Coalition marksman</WC_MARKSMAN.label>
+	<WC_MARKSMAN.labelPlural>Wisteria Coalition marksmen</WC_MARKSMAN.labelPlural>
+	<WC_MARKSMAN.labelMale>male Wisteria Coalition marksman</WC_MARKSMAN.labelMale>
+	<WC_MARKSMAN.labelMalePlural>male Wisteria Coalition marksmen</WC_MARKSMAN.labelMalePlural>
+	<WC_MARKSMAN.labelFemale>female Wisteria Coalition marksman</WC_MARKSMAN.labelFemale>
+	<WC_MARKSMAN.labelFemalePlural>female Wisteria Coalition marksmen</WC_MARKSMAN.labelFemalePlural>
+
+	<WC_SHOTTY.label>Wisteria Coalition shotgunner</WC_SHOTTY.label>
+	<WC_SHOTTY.labelPlural>Wisteria Coalition shotgunners</WC_SHOTTY.labelPlural>
+	<WC_SHOTTY.labelMale>male Wisteria Coalition shotgunner</WC_SHOTTY.labelMale>
+	<WC_SHOTTY.labelMalePlural>male Wisteria Coalition shotgunners</WC_SHOTTY.labelMalePlural>
+	<WC_SHOTTY.labelFemale>female Wisteria Coalition shotgunner</WC_SHOTTY.labelFemale>
+	<WC_SHOTTY.labelFemalePlural>female Wisteria Coalition shotgunners</WC_SHOTTY.labelFemalePlural>
+
+
+	<!-- Archer Infantry -->
+	
+	<WC_SEEKER.label>Wisteria Coalition seeker</WC_SEEKER.label>
+	<WC_SEEKER.labelPlural>Wisteria Coalition seekers</WC_SEEKER.labelPlural>
+	<WC_SEEKER.labelMale>male Wisteria Coalition seeker</WC_SEEKER.labelMale>
+	<WC_SEEKER.labelMalePlural>male Wisteria Coalition seekers</WC_SEEKER.labelMalePlural>
+	<WC_SEEKER.labelFemale>female Wisteria Coalition seeker</WC_SEEKER.labelFemale>
+	<WC_SEEKER.labelFemalePlural>female Wisteria Coalition seekers</WC_SEEKER.labelFemalePlural>
+
+	<WC_RECON.label>Wisteria Coalition scout</WC_RECON.label>
+	<WC_RECON.labelPlural>Wisteria Coalition scouts</WC_RECON.labelPlural>
+	<WC_RECON.labelMale>male Wisteria Coalition scout</WC_RECON.labelMale>
+	<WC_RECON.labelMalePlural>male Wisteria Coalition scouts</WC_RECON.labelMalePlural>
+	<WC_RECON.labelFemale>female Wisteria Coalition scout</WC_RECON.labelFemale>
+	<WC_RECON.labelFemalePlural>female Wisteria Coalition scouts</WC_RECON.labelFemalePlural>
+
+
+	<!-- Heavy Infantry -->
+
+	<WC_MG.label>Wisteria Coalition gunslinger</WC_MG.label>
+	<WC_MG.labelPlural>Wisteria Coalition gunslingers</WC_MG.labelPlural>
+	<WC_MG.labelMale>male Wisteria Coalition gunslinger</WC_MG.labelMale>
+	<WC_MG.labelMalePlural>male Wisteria Coalition gunslingers</WC_MG.labelMalePlural>
+	<WC_MG.labelFemale>female Wisteria Coalition gunslinger</WC_MG.labelFemale>
+	<WC_MG.labelFemalePlural>female Wisteria Coalition gunslingers</WC_MG.labelFemalePlural>
+
+	<WC_PK_JAVELIN.label>Wisteria Coalition javelin launcher</WC_PK_JAVELIN.label>
+	<WC_PK_JAVELIN.labelPlural>Wisteria Coalition javelin launchers</WC_PK_JAVELIN.labelPlural>
+	<WC_PK_JAVELIN.labelMale>male Wisteria Coalition javelin launcher</WC_PK_JAVELIN.labelMale>
+	<WC_PK_JAVELIN.labelMalePlural>male Wisteria Coalition javelin launchers</WC_PK_JAVELIN.labelMalePlural>
+	<WC_PK_JAVELIN.labelFemale>female Wisteria Coalition javelin launcher</WC_PK_JAVELIN.labelFemale>
+	<WC_PK_JAVELIN.labelFemalePlural>female Wisteria Coalition javelin launchers</WC_PK_JAVELIN.labelFemalePlural>
+
+	<WC_GRENADIER.label>Wisteria Coalition grenadier</WC_GRENADIER.label>
+	<WC_GRENADIER.labelPlural>Wisteria Coalition grenadiers</WC_GRENADIER.labelPlural>
+	<WC_GRENADIER.labelMale>male Wisteria Coalition grenadier</WC_GRENADIER.labelMale>
+	<WC_GRENADIER.labelMalePlural>male Wisteria Coalition grenadiers</WC_GRENADIER.labelMalePlural>
+	<WC_GRENADIER.labelFemale>female Wisteria Coalition grenadier</WC_GRENADIER.labelFemale>
+	<WC_GRENADIER.labelFemalePlural>female Wisteria Coalition grenadiers</WC_GRENADIER.labelFemalePlural>
+
+	<WC_PILEDRIVER.label>Wisteria Coalition siege soldier</WC_PILEDRIVER.label>
+	<WC_PILEDRIVER.labelPlural>Wisteria Coalition siege soldiers</WC_PILEDRIVER.labelPlural>
+	<WC_PILEDRIVER.labelMale>male Wisteria Coalition siege soldier</WC_PILEDRIVER.labelMale>
+	<WC_PILEDRIVER.labelMalePlural>male Wisteria Coalition siege soldiers</WC_PILEDRIVER.labelMalePlural>
+	<WC_PILEDRIVER.labelFemale>female Wisteria Coalition siege soldier</WC_PILEDRIVER.labelFemale>
+	<WC_PILEDRIVER.labelFemalePlural>female Wisteria Coalition siege soldiers</WC_PILEDRIVER.labelFemalePlural>
+
+	<WC_GUNBLADE.label>Wisteria Coalition gunblade wielder</WC_GUNBLADE.label>
+	<WC_GUNBLADE.labelPlural>Wisteria Coalition gunblade wielders</WC_GUNBLADE.labelPlural>
+	<WC_GUNBLADE.labelMale>male Wisteria Coalition gunblade wielder</WC_GUNBLADE.labelMale>
+	<WC_GUNBLADE.labelMalePlural>male Wisteria Coalition gunblade wielders</WC_GUNBLADE.labelMalePlural>
+	<WC_GUNBLADE.labelFemale>female Wisteria Coalition gunblade wielder</WC_GUNBLADE.labelFemale>
+	<WC_GUNBLADE.labelFemalePlural>female Wisteria Coalition gunblade wielders</WC_GUNBLADE.labelFemalePlural>
+
+</LanguageData>
