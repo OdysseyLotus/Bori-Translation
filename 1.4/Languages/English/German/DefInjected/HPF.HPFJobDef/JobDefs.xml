@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- HPF.HPFJobDef is inheritance of JobDef with some additional arguments -->
+
+  <ExtractOrion_Job.reportString>shearing aries from TargetA.</ExtractOrion_Job.reportString>
+  <Extract_SP_Milk_Job.reportString>milking TargetA.</Extract_SP_Milk_Job.reportString>
+
+
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ParentName은 쓰기 전에 반드시 확인할것 -->
+
+  <IvyTeaHigh.label>ivy tea high</IvyTeaHigh.label>
+  <IvyTeaHigh.labelNoun>ivy tea high</IvyTeaHigh.labelNoun>
+  <IvyTeaHigh.description>Drank ivy tea. The ivy fruit used has been refined and watered-down many times, so the tea is less like a drug and more similar to coffee. Generates a mild euphoria and sense of alertness.</IvyTeaHigh.description>
+
+
+  <!-- Go-juice addiction -->
+
+  <IvyTeaAddiction.label>ivy tea addiction</IvyTeaAddiction.label>
+  <IvyTeaAddiction.description>Approximately 60% of the Bori and Sheepawn population are addicted to ivy tea. Withdrawal will cause nausea and fatigue.
+  \nWithout regular doses of ivy tea, withdrawal symptoms will begin. However, extended abstinence will resolve the addiction.</IvyTeaAddiction.description>
+  <IvyTeaAddiction.stages.0.label>withdrawal</IvyTeaAddiction.stages.0.label>
+
+  <IvyTeaTolerance.label>ivy tea tolerance</IvyTeaTolerance.label>
+  <IvyTeaTolerance.description>A built-up tolerance to ivy tea. The more severe this tolerance is, the more ivy tea it takes to get the same effect.</IvyTeaTolerance.description>
+  <IvyTeaTolerance.stages.small.label>small</IvyTeaTolerance.stages.small.label>
+  <IvyTeaTolerance.stages.large.label>large</IvyTeaTolerance.stages.large.label>
+  <IvyTeaTolerance.stages.massive.label>massive</IvyTeaTolerance.stages.massive.label>
+
+
+</LanguageData>
