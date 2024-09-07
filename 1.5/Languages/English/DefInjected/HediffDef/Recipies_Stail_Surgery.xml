@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SP_BionicTail.label>bionic tail (Sheepawn)</SP_BionicTail.label>
+  <SP_BionicTail.labelNoun>bionic tail (Sheepawn)</SP_BionicTail.labelNoun>
+  <SP_BionicTail.description>A bionic tail attachment for Sheepawn.</SP_BionicTail.description>
+
+
+  <!-- Bori tail -->
+
+  <SP_BionicHorn.label>bionic horn (Sheepawn)</SP_BionicHorn.label>
+  <SP_BionicHorn.labelNoun>bionic horn (Sheepawn)</SP_BionicHorn.labelNoun>
+  <SP_BionicHorn.description>A bionic horn attachment for Sheepawn.</SP_BionicHorn.description>
+
+
+  <!-- 목각뿔 -->
+
+  <SP_WoodHorn.label>wooden horn (Sheepawn)</SP_WoodHorn.label>
+  <SP_WoodHorn.labelNoun>wooden horn (Sheepawn)</SP_WoodHorn.labelNoun>
+  <SP_WoodHorn.description>A wooden horn attachment for Sheepawn. It offers temporary relief and is relatively durable.</SP_WoodHorn.description>
+
+  <SP_FakeTail.label>fake tail (Sheepawn)</SP_FakeTail.label>
+  <SP_FakeTail.labelNoun>fake tail (Sheepawn)</SP_FakeTail.labelNoun>
+  <SP_FakeTail.description>A fake tail for Sheepawn made out of wool. It looks awkward and it is difficult to move, but it's better than nothing.</SP_FakeTail.description>
+
+
+</LanguageData>

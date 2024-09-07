@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallSP_BionicTail.label>install a bionic tail (Sheepawn)</InstallSP_BionicTail.label>
+  <InstallSP_BionicTail.description>Install a bionic tail for Sheepawn.</InstallSP_BionicTail.description>
+  <InstallSP_BionicTail.jobString>Installing a bionic tail (Sheepawn).</InstallSP_BionicTail.jobString>
+
+
+  <!-- Bori tail -->
+
+  <InstallSPBionicHorn.label>install a bionic horn (Sheepawn)</InstallSPBionicHorn.label>
+  <InstallSPBionicHorn.description>Install a bionic horn for Sheepawn.</InstallSPBionicHorn.description>
+  <InstallSPBionicHorn.jobString>Installing a bionic horn (Sheepawn).</InstallSPBionicHorn.jobString>
+
+
+  <!-- 목각뿔 -->
+
+  <InstallSP_WoodHorn.label>install a wooden horn (Sheepawn)</InstallSP_WoodHorn.label>
+  <InstallSP_WoodHorn.description>Install a wooden horn for Sheepawn.</InstallSP_WoodHorn.description>
+  <InstallSP_WoodHorn.jobString>Installing a wooden horn (Sheepawn).</InstallSP_WoodHorn.jobString>
+
+  <SP_InstallFakeTail.label>install a fake tail (Sheepawn)</SP_InstallFakeTail.label>
+  <SP_InstallFakeTail.description>Install a fake tail for Sheepawn.</SP_InstallFakeTail.description>
+  <SP_InstallFakeTail.jobString>Installing a fake tail (Sheepawn).</SP_InstallFakeTail.jobString>
+
+
+</LanguageData>

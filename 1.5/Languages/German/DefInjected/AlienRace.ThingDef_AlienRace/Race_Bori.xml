@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Alien_Bori.label>Bori</Alien_Bori.label>
+  <Alien_Bori.description>A genetically engineered species of territorial canine-people. Bori possess dog-like ears and tails, but are otherwise entirely humanoid.</Alien_Bori.description>
+  <Alien_Bori.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>skin</Alien_Bori.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <Alien_Bori.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>hair</Alien_Bori.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+  <Alien_Bori.tools.0.label>left fist</Alien_Bori.tools.0.label>
+  <Alien_Bori.tools.1.label>right fist</Alien_Bori.tools.1.label>
+  <Alien_Bori.tools.2.label>teeth</Alien_Bori.tools.2.label>
+  <Alien_Bori.tools.3.label>headbutt</Alien_Bori.tools.3.label>
+
+
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<InstallBR_OrionPart_Eye.label>install orion bionic eye</InstallBR_OrionPart_Eye.label>
+	<InstallBR_OrionPart_Eye.description>Install an orion bionic eye.</InstallBR_OrionPart_Eye.description>
+	<InstallBR_OrionPart_Eye.jobString>Installing orion bionic eye.</InstallBR_OrionPart_Eye.jobString>
+	
+	<InstallBR_OrionPart_Arm.label>install orion bionic arm</InstallBR_OrionPart_Arm.label>
+	<InstallBR_OrionPart_Arm.description>Install an orion bionic arm.</InstallBR_OrionPart_Arm.description>
+	<InstallBR_OrionPart_Arm.jobString>Installing orion bionic arm.</InstallBR_OrionPart_Arm.jobString>
+	
+	<InstallBR_OrionPart_Leg.label>install orion bionic leg</InstallBR_OrionPart_Leg.label>
+	<InstallBR_OrionPart_Leg.description>Install an orion bionic leg.</InstallBR_OrionPart_Leg.description>
+	<InstallBR_OrionPart_Leg.jobString>Installing orion bionic leg.</InstallBR_OrionPart_Leg.jobString>
+	
+	<InstallBR_OrionPart_Spine.label>install orion bionic spine</InstallBR_OrionPart_Spine.label>
+	<InstallBR_OrionPart_Spine.description>Install an orion bionic spine.</InstallBR_OrionPart_Spine.description>
+	<InstallBR_OrionPart_Spine.jobString>Installing orion bionic spine.</InstallBR_OrionPart_Spine.jobString>
+
+</LanguageData>

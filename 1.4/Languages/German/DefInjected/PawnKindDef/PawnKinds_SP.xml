@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- SP Civilians -->
+
+  <SP_Colonist.label>Sheepawn citizen</SP_Colonist.label>
+  <SP_Colonist.labelPlural>Sheepawn citizens</SP_Colonist.labelPlural>
+  <SP_Colonist.labelMale>male Sheepawn citizen</SP_Colonist.labelMale>
+  <SP_Colonist.labelMalePlural>male Sheepawn citizens</SP_Colonist.labelMalePlural>
+  <SP_Colonist.labelFemale>female Sheepawn citizen</SP_Colonist.labelFemale>
+  <SP_Colonist.labelFemalePlural>female Sheepawn citizens</SP_Colonist.labelFemalePlural>
+
+  <SP_Trader.label>Sheepawn merchant</SP_Trader.label>
+  <SP_Trader.labelPlural>Sheepawn merchants</SP_Trader.labelPlural>
+  <SP_Trader.labelMale>male Sheepawn merchant</SP_Trader.labelMale>
+  <SP_Trader.labelMalePlural>male Sheepawn merchants</SP_Trader.labelMalePlural>
+  <SP_Trader.labelFemale>female Sheepawn merchant</SP_Trader.labelFemale>
+  <SP_Trader.labelFemalePlural>female Sheepawn merchants</SP_Trader.labelFemalePlural>
+
+  <SPSlave.label>Sheepawn slave</SPSlave.label>
+  <SPSlave.labelPlural>Sheepawn slaves</SPSlave.labelPlural>
+  <SPSlave.labelMale>male Sheepawn slave</SPSlave.labelMale>
+  <SPSlave.labelMalePlural>male Sheepawn slaves</SPSlave.labelMalePlural>
+  <SPSlave.labelFemale>female Sheepawn slave</SPSlave.labelFemale>
+  <SPSlave.labelFemalePlural>female Sheepawn slaves</SPSlave.labelFemalePlural>
+
+  <SPRefugee.label>Sheepawn refugee</SPRefugee.label>
+  <SPRefugee.labelPlural>Sheepawn refugees</SPRefugee.labelPlural>
+  <SPRefugee.labelMale>male Sheepawn refugee</SPRefugee.labelMale>
+  <SPRefugee.labelMalePlural>male Sheepawn refugees</SPRefugee.labelMalePlural>
+  <SPRefugee.labelFemale>female Sheepawn refugee</SPRefugee.labelFemale>
+  <SPRefugee.labelFemalePlural>female Sheepawn refugees</SPRefugee.labelFemalePlural>
+
+
+  <!-- 구직자 -->
+
+  <SP_Job_seeker.label>Sheepawn new paradise immigrant</SP_Job_seeker.label>
+  <SP_Job_seeker.labelPlural>Sheepawn new paradise immigrants</SP_Job_seeker.labelPlural>
+  <SP_Job_seeker.labelMale>male Sheepawn new paradise immigrant</SP_Job_seeker.labelMale>
+  <SP_Job_seeker.labelMalePlural>male Sheepawn new paradise immigrants</SP_Job_seeker.labelMalePlural>
+  <SP_Job_seeker.labelFemale>female Sheepawn new paradise immigrant</SP_Job_seeker.labelFemale>
+  <SP_Job_seeker.labelFemalePlural>female Sheepawn new paradise immigrants</SP_Job_seeker.labelFemalePlural>
+
+
+  <!-- 대모 -->
+
+  <SP_The_Mother.label>Sheepawn godmother</SP_The_Mother.label>
+  <SP_The_Mother.labelPlural>Sheepawn godmothers</SP_The_Mother.labelPlural>
+  <SP_The_Mother.labelMale>male Sheepawn godmother</SP_The_Mother.labelMale>
+  <SP_The_Mother.labelMalePlural>male Sheepawn godmothers</SP_The_Mother.labelMalePlural>
+  <SP_The_Mother.labelFemale>female Sheepawn godmother</SP_The_Mother.labelFemale>
+  <SP_The_Mother.labelFemalePlural>female Sheepawn godmothers</SP_The_Mother.labelFemalePlural>
+
+
+</LanguageData>

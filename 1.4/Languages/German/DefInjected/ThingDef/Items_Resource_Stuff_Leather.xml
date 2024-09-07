@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+	<SPBD_Orion.label>orion</SPBD_Orion.label>
+	<SPBD_Orion.description>A very strong material made from aries and plasteel.\nIt is stronger and lighter than plasteel. Thanks to the Sheepawn wool, it is bulletproof.\nThe molecular structure of orion is unknown.\n\nThere is also research that suggests that orion is a far more advanced technology than originally thought.</SPBD_Orion.description>
+
+	<SP_Weave.label>aries</SP_Weave.label>
+	<SP_Weave.description>Raw wool from a Sheepawn. Processing is necessary to turn it into useable fabric.\nFabric made from Sheepawn wool was considered the finest available on Eden. It is incredibly soft and luxurious and is considered beyond beautiful with it's light color and faint shine. Aries shrinks in cold weather, providing excellent heat insulation, and expands in hot weather, allowing for improved heat dissipation.</SP_Weave.description>
+	
+	<PULEUN_CRYSTAL.label></PULEUN_CRYSTAL.label>
+	<PULEUN_CRYSTAL.description></PULEUN_CRYSTAL.description>
+	
+	<PULEUN_ALLOY.label></PULEUN_ALLOY.label>
+	<PULEUN_ALLOY.description></PULEUN_ALLOY.description>
+	
+	<PULEUN_COMPONENT.label></PULEUN_COMPONENT.label>
+	<PULEUN_COMPONENT.description></PULEUN_COMPONENT.description>
+	
+	<PULEUN_CHARGE_CORE.label></PULEUN_CHARGE_CORE.label>
+	<PULEUN_CHARGE_CORE.description></PULEUN_CHARGE_CORE.description>
+	
+	<PULEUN_FABRIC.label></PULEUN_FABRIC.label>
+	<PULEUN_FABRIC.description></PULEUN_FABRIC.description>
+	
+	<PULEUN_BIO_FIBER.label></PULEUN_BIO_FIBER.label>
+	<PULEUN_BIO_FIBER.description></PULEUN_BIO_FIBER.description>
+
+
+</LanguageData>

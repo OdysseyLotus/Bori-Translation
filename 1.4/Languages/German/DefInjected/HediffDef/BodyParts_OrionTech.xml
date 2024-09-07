@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<BR_OrionPart_Eye.label>Orion bionic eye</BR_OrionPart_Eye.label>
+	<BR_OrionPart_Eye.labelNoun>Orion bionic eye</BR_OrionPart_Eye.labelNoun>
+	<BR_OrionPart_Eye.description>A bionic eye engineered with orion.</BR_OrionPart_Eye.description>
+	
+	<BR_OrionPart_Arm.label>Orion bionic arm</BR_OrionPart_Arm.label>
+	<BR_OrionPart_Arm.labelNoun>Orion bionic arm</BR_OrionPart_Arm.labelNoun>
+	<BR_OrionPart_Arm.description>A bionic arm engineered with orion.</BR_OrionPart_Arm.description>
+	
+	<BR_OrionPart_Leg.label>Orion bionic leg</BR_OrionPart_Leg.label>
+	<BR_OrionPart_Leg.labelNoun>Orion bionic leg</BR_OrionPart_Leg.labelNoun>
+	<BR_OrionPart_Leg.description>A bionic leg engineered with orion.</BR_OrionPart_Leg.description>
+
+	<BR_OrionPart_Spine.label>Orion bionic spine</BR_OrionPart_Spine.label>
+	<BR_OrionPart_Spine.labelNoun>Orion bionic spine</BR_OrionPart_Spine.labelNoun>
+	<BR_OrionPart_Spine.description>A bionic spine engineered with orion.</BR_OrionPart_Spine.description>	
+
+</LanguageData>

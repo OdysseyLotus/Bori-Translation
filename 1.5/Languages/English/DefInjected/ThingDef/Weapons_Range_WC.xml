@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+	<!-- Charge Weaponry -->
+	<WC_W_AZURSIGHT.label>WC-GR/X10-AZURSIGHT</WC_W_AZURSIGHT.label>
+	<WC_W_AZURSIGHT.description>The WC-GR/X10-AZURSIGHT is a military-grade long-range sniper rifle developed by the Wisteria Corporation. The rifle's charge core and magnetic accelerator enable lethal armor-piercing fire that can eliminate targets from afar.\nThe AZURSIGHT features a modular frame that can be customized to suit a variety of mission needs. The thermal scope enables effective targeting even in low-visibility conditions.\nThe integrated secondary targeting system helps the user more accurately target enemies. Its armor-piercing rounds are specifically designed to penetrate armor and even vehicles and structures.\n\n\nA thousand views, a whisper on the waves of the bay.</WC_W_AZURSIGHT.description>
+
+	<WC_B_AZURSIGHT.label>AZURSIGHT shot</WC_B_AZURSIGHT.label>
+
+	<WC_W_ZARLAND.label>WC-M6-SAARLAND</WC_W_ZARLAND.label>
+	<WC_W_ZARLAND.description>The WC-M6-SAARLAND is a standard issue rifle developed by the Wisteria Corporation. With a charge core and waterproof build, this rifle is designed to withstand the elements. Penetrating bullets made from blue alloy ensure high accuracy and precision. Its modular design allows it to be customized to suit a variety of situations. The magnetic accelerator enhances the impact of each shot, making it effective for close to mid-range. From reconnaissance missions to tactical firefights, this rifle is a reliable and versatile option for any soldier.</WC_W_ZARLAND.description>
+
+	<WC_B_ZARLAND.label>SAARLAND shot</WC_B_ZARLAND.label>
+
+	<WC_W_EXILE.label>WC-AAS/X12-EXILE</WC_W_EXILE.label>
+	<WC_W_EXILE.description>The WC-AAS/X12-EXILE is an automatic shotgun developed by the Wisteria Corporation. This shotgun is designed to provide devastating firepower in close-quarter combat, making it the ideal choice for soldiers who need to clear rooms or engage in high-intensity combat. The EXILE is equipped with a charging core and waterproof frame, ensuring reliable performance even in harsh environments. The piercing pellets are made of blue alloy, making them highly effective against armored targets. The EXILE also features a modular frame, making it easily customizable. Its magnetic accelerator provide additional power to each shot, making it a weapon to look out for on the battlefield. Whether you are a spec-ops operator or a private security officer, the EXILE is an excellent choice of firearm.</WC_W_EXILE.description>
+
+	<WC_B_EXILE.label>EXILE shot</WC_B_EXILE.label>
+
+	<WC_W_GLADIATOR.label>WC-AR/X15-GLADIATOR</WC_W_GLADIATOR.label>
+	<WC_W_GLADIATOR.description>The WC-AR/X15-GLADIATOR is a medium assault rifle developed by the Wisteria Corporation. Combining cutting-edge technology and a charge core, it delivers devastating firepower and unparalleled precision. A magnetic accelerator fire penetrating round with lethal force, while a durable, waterproof build ensures reliable operation in any environment. Equipped with advanced support systems, the GLADIATOR is ideal for both open combat and covert operations.</WC_W_GLADIATOR.description>
+
+	<WC_B_GLADIATOR.label>GLADIATOR shot</WC_B_GLADIATOR.label>
+
+	<WC_W_D_GLADIATOR.label>WC-AR/X15-D-GLADIATOR</WC_W_D_GLADIATOR.label>
+	<WC_W_D_GLADIATOR.description>The WC-AR/X15-D-GLADIATOR is a variant of the similarly named assault rifle by the Wisteria Corporation. Utilizing Wisteria Tech and a rechargeable core, this water-resistant variant is an overall improvement on the original GLADIATOR design. Its rechargeable magnetic accelerator provides tremendous firepower in combination with its armor-penetrating rounds. THE D-GLADIATOR's advanced targeting AI makes it ideal for both open combat and undercover operations. The inclusion of the magazine drum gives the weapon far higher ammo capacity, allowing its wielder to stay in combat for much longer. Whether it is being used for large-scale battles or precise strikes, the WC-AR/X15-D-GLADIATOR is a fierce and reliable weapon.</WC_W_D_GLADIATOR.description>
+
+	<WC_B_D_GLADIATOR.label>GLADIATOR drum shot</WC_B_D_GLADIATOR.label>
+
+	<WC_W_LOCKREED.label>WC-AR01-LOCKREED</WC_W_LOCKREED.label>
+	<WC_W_LOCKREED.description>THE WC-AR01-LOCKREED is a top-of-the-line lightweight assault rifle developed by the Wisteria Corporation. Utilizing Wisteria Tech and a rechargeable core, the LOCKREED features both reliability and excellent firepower. Its durable, water-resistant blue alloy can withstand intense environments, and the integrated A.T.A. (Advanced Target Assistance) system provides unparalleled accuracy. Its rechargeable magnetic accelerator provides tremendous firepower in combination with its armor-penetrating rounds. Its lightweight design makes it ideal for reconnaissance missions that require silent, quick movements.</WC_W_LOCKREED.description>
+
+	<WC_B_LOCKREED.label>LOCKREED shot</WC_B_LOCKREED.label>
+
+	<WC_W_LIARIS.label>WC-SV-DECEIVER</WC_W_LIARIS.label>
+	<WC_W_LIARIS.description>The WC-SV-DECEIVER is a submachine gun developed by the Wisteria Corporation. Equipped with a recharge core and made of the revolutionary blue alloy, the DECEIVER is built to withstand even the most intense combat situations. Its lightweight design makes it easy to handle and operate, and its rechargeable magnetic accelerator and armor-piercing rounds make it an optimal choice for medium range fire-support. Its integrated targeting system ensure accuracy at medium ranges, although it may struggle in short or long-range encounters.</WC_W_LIARIS.description>
+
+	<WC_B_LIARIS.label>DECEIVER shot</WC_B_LIARIS.label>
+
+	<WC_W_LIARIS_M.label>WC-SV-DECEIVER-M2</WC_W_LIARIS_M.label>
+	<WC_W_LIARIS_M.description>The WC-SV-DECEIVER-M2 is a medium-sized submachine gun developed by the Wisteria Corporation. A heavier variant of the WC-SV-DECEIVER, it still features its predecessor's charge core, blue alloy frame, and armor-piercing rounds. However, DECEIVER-M2 is more proficient at long and short-range combat, making it more versatile.</WC_W_LIARIS_M.description>
+
+	<WC_B_LIARIS_M.label>DECEIVER-M2 shot</WC_B_LIARIS_M.label>
+
+	<WC_W_VRASS.label>WC-B2-V-RASS</WC_W_VRASS.label>
+	<WC_W_VRASS.description>The WC-B2-V-RASS is a compact, rechargeable pistol designed for high-speed, close-range combat. Developed by the Wisteria Corporation, it features a rechargeable magnetic core for enhanced fire power. Its blue alloy frame and armor-piercing rounds make it a devastating tool for silencing hostiles in short-range encounters.</WC_W_VRASS.description>
+
+	<WC_B_VRASS.label>V-RASS shot</WC_B_VRASS.label>
+
+	<WC_W_VAGAL.label>WC-MB1-VA-GAL</WC_W_VAGAL.label>
+	<WC_W_VAGAL.description>The WC-MB1-VA-GAL is a rechargeable revolver developed by the Wisteria Corporation. Seemingly taking inspiration from Western six-shooters, the lightweight sidearm has a six-round capacity, a rechargeable magnetic core, armor-penetrating rounds, and a blue-alloy frame. The VA-GAL's integrated targeting system is unique in that it works best when the user dual-wields it, as the VA-GAL's AI seem to gather information from its companion firearm. It is an excellent choice for its accuracy, power, and above all, style in close-range combat.</WC_W_VAGAL.description>
+
+	<WC_B_VAGAL.label>VA-GAL shot</WC_B_VAGAL.label>
+
+	<WC_W_SOVA.label>WC-CB-SOVA</WC_W_SOVA.label>
+	<WC_W_SOVA.description>The WC-CB-SOVA is a cutting-edge rechargeable bow developed by the Wisteria Corporation.The bow features a recharge core, allowing it to fire high-velocity, armor-piercing arrows. Much quieter than its firearm brethren, the lightweight bow was primarily designed with reconnaissance or assassination missions in mind. It is ideal for long-range, stealthy strikes, made before the user is spotted and/or at very long-range. Due to its reload time, it is not recommended for use in general combat.</WC_W_SOVA.description>
+
+	<WC_B_SOVA.label>SOVA arrow</WC_B_SOVA.label>
+
+	<WC_W_HUNTRESS.label>WC-H/CB02-HUNTRESS</WC_W_HUNTRESS.label>
+	<WC_W_HUNTRESS.description>The WC-H/CB02-HUNTRESS is a top-of-the-line tactical longbow developed by the Wisteria Corporation. Equipped with thermal imaging, this longbow provides unparalleled accuracy and precision. Its Type-H Charge Core allows for fast and efficient recharging. Its quiet rounds make it suitable for reconnaissance missions, but it features more versatility, as the bow can release three arrows in short-succession for multiple eliminations.</WC_W_HUNTRESS.description>
+
+	<WC_B_HUNTRESS.label>HUNTRESS arrow</WC_B_HUNTRESS.label>
+
+	<WC_W_HEADHUNTER.label>WC-CC/CB03-HEADHUNTER</WC_W_HEADHUNTER.label>
+	<WC_W_HEADHUNTER.description>The WC-CC/CB03-HEADHUNTER is a rechargeable battle bow that boasts both long-range accuracy and close-quarters lethality. Developed by the Wisteria Corporation for reconnaissance and/or assassination missions, the HEADHUNTER features a blade on each end for limited use as a melee weapon. Its Type-H Recharge Core provides the power necessary to fire high-velocity, armor-piercing arrows made from blue alloy. Its modified magnetic accelerator allows it to fire at long-range while being capable of dual-shot bursts for deadly follow-ups.</WC_W_HEADHUNTER.description>
+
+	<WC_B_HEADHUNTER.label>HEADHUNTER arrow</WC_B_HEADHUNTER.label>
+
+	<WC_W_TRIDENT.label>WC-AB/LH-TRIDENT</WC_W_TRIDENT.label>
+	<WC_W_TRIDENT.description>The WC-AB/LH-TRIDENT is a powerful ballista cannon designed for taking down large beasts or machines. Developed by the Wisteria Corporation, it utilizes Heavy Arms Sub-Tech for high lethality. Equipped with a charge core, the TRIDENT fires three piercing bolts made of blue alloy in quick succession with extremely high speed, range, and accuracy. Its high density makes it very durable, but deploying it requires time and strength. Users should prepare the TRIDENT before engaging in combat.</WC_W_TRIDENT.description>
+
+	<WC_B_TRIDENT.label>TRIDENT bolt</WC_B_TRIDENT.label>
+
+	<WC_W_ZEILASH.label>WC-CW-ZEILASH</WC_W_ZEILASH.label>
+	<WC_W_ZEILASH.description>The WC-CW-ZEILASH is a powerful charged whip developed by the Wisteria Corporation for subdue-and-capture missions. Made of blue alloy and a charge core, the ZEILASH features a highly flexible wire blade for quick strikes on targets. It is also capable of firing energy blasts for mid-range combat if necessary. However, it is heavier than other weapons, so soldiers should undergo strength training before use.</WC_W_ZEILASH.description>
+
+	<WC_B_ZEILASH_SLASH.label>ZEILASH strike</WC_B_ZEILASH_SLASH.label>
+	
+	
+	<!-- Heavy Arms Technology -->
+	<WC_W_GUNBLADE.label>WC-G/B01-GUNBLADE</WC_W_GUNBLADE.label>
+	<WC_W_GUNBLADE.description>The WC-G/B01-GUNBLADE is a versatile weapon developed by the Wisteria Corporation. The GUNBLADE was designed for use in both long and close-range combat, utilizing Heavy Arms Sub-Tech and Wisteria Tech to outfit it with a recharge core, balancing weights, and a refined Kaiser blade made out of blue alloy.\n\nThis gunblade also features an integrated rotation mechanism for use in ranged-combat. The balancing weights allow the user to quickly switch between use in melee and ranged combat, but soldiers should engage in extensive training before use to avoid unfortunate self-injuries.</WC_W_GUNBLADE.description>
+
+	<WC_B_GUNBLADE.label>GUNBLADE shot</WC_B_GUNBLADE.label>
+
+	<WC_W_SPARDA.label>WC-MG/C16-SPARTAN</WC_W_SPARDA.label>
+	<WC_W_SPARDA.description>The WC-MG/C16-SPARTAN is a devastating heavy machine gun developed by the Wisteria Corporation. Its heavy weight, solid construction, and magnetic charge core allow it to deal an overwhelming blow to enemies. Its integrated AI provides high accuracy, making it an ideal weapon for fire-support and enemy suppression.\n\nThe SPARTAN has a suppressive burts mode that fires 22 consecutive rounds for maximum suppression. Its blue alloy build makes it extremely durable and capable of withstanding heavy use.\n\nWhen combined with the DRAGOON Power Armor, the SPARTAN becomes even more fearsome. The DRAGOON enhances the user's strength, allowing them to wield the SPARTAN with little effort while protecting them from threats.\n\nThe SPARTAN, however, does have its limitations. It is not particularly effective at medium or long-range, and its weight can make it difficult for most to wield effectively.</WC_W_SPARDA.description>
+	
+	<WC_B_SPARDA.label>SPARTAN shot</WC_B_SPARDA.label>
+
+	<WC_W_JAVELIN.label>WC-AT/BM-06-JAVELIN</WC_W_JAVELIN.label>
+	<WC_W_JAVELIN.description>The WC-AT/BM-06-JAVELIN is a state-of-the-art anti-armor and anti-vehicle guided-missile launcher developed by the Wisteria Corporation.\n\nThe JAVELIN, made of the highest quality blue alloy, consists of a charge core launcher and magnetic accelerator, allowing it to launch high-speed guided missiles from afar.\n\nThe JAVELIN's high density makes it difficult to transport and maneuver, particularly in tight spaces, but its destructive capablitilies more than make up for it, decimating entire platoons in one fell swoop.</WC_W_JAVELIN.description>
+
+	<WC_R_JAVELIN.label>JAVELIN rocket</WC_R_JAVELIN.label>
+
+	<WC_W_STINGER.label>WC-S/R17-STINGER</WC_W_STINGER.label>
+	<WC_W_STINGER.description>The WC-S/R17-STINGER is a single-shot anti-armor/vehicle missile launcher developed by the Wisteria Corporation.\n\nThe STINGER is designed to target and eliminate heavy-armor targets with extreme accuracy. The charge core and magnetic accelerator give the missiles incredible speed and power, allowing it to penetrate the thickest of armor. Unlike the JAVELIN, the STINGER is lightweight and easy to wield in the field. The secondary targeting system augments the user's accuracy with real-time information on the target's position and velocity.\n\nHowever, the STINGER lacks in durability. It is a single-use weapon that cannot be reused once its missile has been launched. However, its ability to easily decimate armored units make the price worth paying in most situations.</WC_W_STINGER.description>
+
+	<WC_R_STINGER.label>STINGER rocket</WC_R_STINGER.label>
+
+	<WC_W_QUAKE.label>WC-GL/M1-QUAKE</WC_W_QUAKE.label>
+	<WC_W_QUAKE.description>The WC-GL/M1-QUAKE is a devastating grenade launcher developed by the Wisteria Corporation.\n\nEquipped with a charge core and a magnetic accelerator, this heavy-duty weapon is capable of firing a barrage of grenades to disorient and dismember the enemy. The QUAKE's automatic fire mode makes it ideal for enemy suppression and destruction.\n\nIts secondary targeting system ensures both precision and accuracy, although rogue grenade bouncing should be taken into account. The weapon takes its name from the devastating power of an earthquake and is designed to inflict similar amounts of destruction.</WC_W_QUAKE.description>
+
+	<WC_R_QUAKE.label>QUAKE grenade</WC_R_QUAKE.label>
+	
+	
+	<!-- Guass Technology -->
+	<WC_W_SPADES.label>WC-AMR/XN-SPACE</WC_W_SPADES.label>
+	<WC_W_SPADES.description>The WC-AMR/XN-SPACE is a powerful Gauss rifle developed by the Wisteria Corporation. Utilizing the Gauss Corporation's Sub-Tech Division and Wisteria Tech, the rifle is designed to deliver unparalleled firepower against armored targets.\n\nThe G1 Charge Core of the SPACE allows for powerful shots with lethal armor penetration. An improved variant of Wisteria's magnetic accelerator fire customized Veretta hyper-velocity projectiles.\n\nThe SPACE is a heavy-duty weapon that must be used with power armor in order to handle its recoil. The weapon gets its name from its ability to pierce enemy armor, leaving a taril of destruction behind it.</WC_W_SPADES.description>
+
+	<WC_B_SPADES.label>SPACE shot</WC_B_SPADES.label>
+
+	<WC_W_MIKOYAN.label>WC-G/AR-MIKOYAN</WC_W_MIKOYAN.label>
+	<WC_W_MIKOYAN.description>The WC-G/AR-MIKOYAN is a standard Gauss rifle developed by Wisteria Corporation and part of the Gauss Sub-Tech Division's developments.\n\nThe MIKOYAN boasts a G1 Charge Core, a lightweight frame made of blue alloy, and an integrated AI targeting system, making it an ideal choice for medium to long range combat.\n\nOne of its most notable features is its hyper-velocity rounds. These rounds are specifically designed to travel at extreme speeds, giving them greater lethality in combat. The MIKOYAN also features an enhanced magnetic accelerator to ensure each shot has the ability to pierce the thickest of armor.</WC_W_MIKOYAN.description>
+
+	<WC_B_MIKOYAN.label>MIKOYAN shot</WC_B_MIKOYAN.label>
+
+	<WC_W_LIARIS_G.label>WC-G/SV-DECEIVER-G</WC_W_LIARIS_G.label>
+	<WC_W_LIARIS_G.description>The WC-G/SV-DECEIVER-G is a variant of the DECEIVER developed by Gauss Sub-Tech Division in collaboration with the Wisteria Corporation. The DECEIVER-G is a submachine gun featuring a G1 Charge Core for additional power and accuracy and Gauss's targeting AI is even better than the original's.\n\nThe weapon's high-velocity rounds and enhanced magnetic accelerator provide lethal armor penetration, making it a medium-range support weapon to be feared. Its blue alloy frame makes it easy to operate and handle for ease-of-use in high-stress situations.</WC_W_LIARIS_G.description>
+
+	<WC_B_LIARIS_G.label>DECEIVER-G shot</WC_B_LIARIS_G.label>
+
+
+</LanguageData>

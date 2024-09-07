@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	
+	<!-- Wisteria Armor -->
+	<WC_A_GRIZ.label>WC-LA-GRIZ</WC_A_GRIZ.label>
+	<WC_A_GRIZ.description>ERROR: DA7@z_C0?R$T3!#</WC_A_GRIZ.description>
+	
+	
+	<WC_A_WYVERN.label>WC-MS/H-WYVERN</WC_A_WYVERN.label>
+	<WC_A_WYVERN.description>ERROR: DA7@z_C0?R$T3!#</WC_A_WYVERN.description>
+	
+	
+	<WC_A_DRAGOON.label>WC-HLM02-DRAGOON</WC_A_DRAGOON.label>
+	<WC_A_DRAGOON.description>ERROR: DA7@z_C0?R$T3!#</WC_A_DRAGOON.description>
+	
+	
+	<!-- Archery -->
+	<WC_A_SEEKER_ARMOR.label>WC-A-SEEKER</WC_A_SEEKER_ARMOR.label>
+	<WC_A_SEEKER_ARMOR.description>ERROR: DA7@z_C0?R$T3!#</WC_A_SEEKER_ARMOR.description>
+	
+	
+	<WC_A_RECON_ARMOR.label>WC-HM/02-RECON</WC_A_RECON_ARMOR.label>
+	<WC_A_RECON_ARMOR.description>ERROR: DA7@z_C0?R$T3!#</WC_A_RECON_ARMOR.description>
+	
+	
+	<WC_H_SEEKER_HOOD.label>WC-A/01-RECON</WC_H_SEEKER_HOOD.label>
+	<WC_H_SEEKER_HOOD.description>ERROR: DA7@z_C0?R$T3!#</WC_H_SEEKER_HOOD.description>
+	
+	
+	<WC_H_SEEKER_TYPE_B_HOOD.label>WC-A/01-B-RECON</WC_H_SEEKER_TYPE_B_HOOD.label>
+	<WC_H_SEEKER_TYPE_B_HOOD.description>ERROR: DA7@z_C0?R$T3!#</WC_H_SEEKER_TYPE_B_HOOD.description>
+
+	
+	<WC_H_RECON_HOOD.label>WC-H/01-RECON</WC_H_RECON_HOOD.label>
+	<WC_H_RECON_HOOD.description>ERROR: DA7@z_C0?R$T3!#</WC_H_RECON_HOOD.description>
+	
+	
+	<!-- Cosmetic Helmets -->
+	<WC_H_CON_MASK.label>WC-STANDARD-MASK</WC_H_CON_MASK.label>
+	<WC_H_CON_MASK.description>ERROR: DA7@z_C0?R$T3!#</WC_H_CON_MASK.description>
+	
+	
+	<WC_H_CHARGE_SLINGER.label>WC-CHARGE-SLINGER</WC_H_CHARGE_SLINGER.label>
+	<WC_H_CHARGE_SLINGER.description>ERROR: DA7@z_C0?R$T3!#</WC_H_CHARGE_SLINGER.description>
+	
+	
+	<WC_H_INTER_VISOR.label>WC-INTERFACE-VISOR</WC_H_INTER_VISOR.label>
+	<WC_H_INTER_VISOR.description>ERROR: DA7@z_C0?R$T3!#</WC_H_INTER_VISOR.description>
+	
+	
+	<WC_H_TAC_CAP.label>WC-TACTICAL-HELMET</WC_H_TAC_CAP.label>
+	<WC_H_TAC_CAP.description>ERROR: DA7@z_C0?R$T3!#</WC_H_TAC_CAP.description>
+	
+	
+	<WC_H_RAD_MASK.label>WC-RADIATION-MASK</WC_H_RAD_MASK.label>
+	<WC_H_RAD_MASK.description>ERROR: DA7@z_C0?R$T3!#</WC_H_RAD_MASK.description>
+	
+	
+	<!-- Apparel Cosmetics -->
+	<WC_A_CASUALS_A.label>WC-TYPE-A-CASUAL</WC_A_CASUALS_A.label>
+	<WC_A_CASUALS_A.description>ERROR: DA7@z_C0?R$T3!#</WC_A_CASUALS_A.description>
+	
+	
+	<WC_A_EXECUTIVE.label>WC-EXECUTIVE</WC_A_EXECUTIVE.label>
+	<WC_A_EXECUTIVE.description>ERROR: DA7@z_C0?R$T3!#</WC_A_EXECUTIVE.description>
+	
+	
+	<!-- Wisteria Helmets -->
+	<WC_H_GRIZ.label>WC-LS/H01-GRIZ</WC_H_GRIZ.label>
+	<WC_H_GRIZ.description>ERROR: DA7@z_C0?R$T3!#</WC_H_GRIZ.description>
+	
+	
+	<WC_H_VALIR.label>WC-MS/LR01-VALIR</WC_H_VALIR.label>
+	<WC_H_VALIR.description>ERROR: DA7@z_C0?R$T3!#</WC_H_VALIR.description>
+	
+	
+	<WC_H_ZEALOT.label>WC-MS/H01-ZEALOT</WC_H_ZEALOT.label>
+	<WC_H_ZEALOT.description>ERROR: DA7@z_C0?R$T3!#</WC_H_ZEALOT.description>
+	
+	
+	<WC_H_WYVERN.label>WC-MS/H01-WYVERN</WC_H_WYVERN.label>
+	<WC_H_WYVERN.description>ERROR: DA7@z_C0?R$T3!#</WC_H_WYVERN.description>
+	
+	
+	<WC_H_DRAGOON.label>WC-HS/H01-DRAGOON</WC_H_DRAGOON.label>
+	<WC_H_DRAGOON.description>ERROR: DA7@z_C0?R$T3!#</WC_H_DRAGOON.description>
+
+
+</LanguageData>

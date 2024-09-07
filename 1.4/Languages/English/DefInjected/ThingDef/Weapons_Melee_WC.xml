@@ -26,7 +26,7 @@
 
 	<WC_M_RENDER.label>WC-S04-SENTENCER</WC_M_RENDER.label>
 	<WC_M_RENDER.description>The WC-S04-SENTENCER is a charge-scythe, developed by the Wisteria Corporation. This military weapon is popular among vanguard units and was specifically designed to combat unarmored or lightly armored enemies.\n\nThe SENTENCER is equipped with a charge core, making it a powerful and reliable weapon. Made of refined blue alloy, it is incredibly balanced and easy to wield.\n\n\nIt is optimized for cutting down multiple enemies at once. It's perfect for wiping out insectoid colonies.</WC_M_RENDER.description>
-	<WC_M_RENDER.verbs.0.label>blade</WC_M_RENDER.verbs.0.label>
+	<WC_M_RENDER.tools.0.label>blade</WC_M_RENDER.tools.0.label>
 	<WC_M_RENDER.tools.1.label>handle</WC_M_RENDER.tools.1.label>
 
 	<WC_M_CRUSADER.label>WC-HG02-CRUSADER</WC_M_CRUSADER.label>

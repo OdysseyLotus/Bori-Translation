@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Alien_SP.label>sheepawn</Alien_SP.label>
+  <Alien_SP.description>A genetically engineered species of sheep people. They produce milk and a beautiful yet strong wool called "aries", which can be used to create the material known as "orion". Most individuals are fragile and rely on protection from others.</Alien_SP.description>
+  <Alien_SP.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>skin</Alien_SP.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <Alien_SP.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>hair</Alien_SP.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+  <Alien_SP.tools.0.label>left fist</Alien_SP.tools.0.label>
+  <Alien_SP.tools.1.label>right fist</Alien_SP.tools.1.label>
+  <Alien_SP.tools.2.label>teeth</Alien_SP.tools.2.label>
+  <Alien_SP.tools.3.label>headbutt</Alien_SP.tools.3.label>
+
+</LanguageData>

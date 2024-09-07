@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+	<MAKE_PULEUN_CHARGE_CORE.label>make a puleun charge core</MAKE_PULEUN_CHARGE_CORE.label>
+	<MAKE_PULEUN_CHARGE_CORE.description>Make a puleun charge core using puleun crystals, alloys, and data packs.</MAKE_PULEUN_CHARGE_CORE.description>
+	<MAKE_PULEUN_CHARGE_CORE.jobString>Making a puleun charge core.</MAKE_PULEUN_CHARGE_CORE.jobString>
+
+
+	<MAKE_PULEUN_CHARGE_CORE_B.label>make puleun charge cores x2</MAKE_PULEUN_CHARGE_CORE_B.label>
+	<MAKE_PULEUN_CHARGE_CORE_B.description>Make two puleun charge cores using puleun crystals, alloys, and data packs.</MAKE_PULEUN_CHARGE_CORE_B.description>
+	<MAKE_PULEUN_CHARGE_CORE_B.jobString>Making puleun charge cores x2</MAKE_PULEUN_CHARGE_CORE_B.jobString>
+
+
+	<MAKE_PULEUN_ALLOY.label>make puleun alloy x50</MAKE_PULEUN_ALLOY.label>
+	<MAKE_PULEUN_ALLOY.description>Make 50 puleun alloys using puleun crystals, plasteel, and steel.</MAKE_PULEUN_ALLOY.description>
+	<MAKE_PULEUN_ALLOY.jobString>Making puleun alloy x50</MAKE_PULEUN_ALLOY.jobString>
+
+
+	<MAKE_PULEUN_ALLOY_B.label>make puleun alloy x100</MAKE_PULEUN_ALLOY_B.label>
+	<MAKE_PULEUN_ALLOY_B.description>Make 100 puleun alloys using puleun crystals, plasteel, and steel.</MAKE_PULEUN_ALLOY_B.description>
+	<MAKE_PULEUN_ALLOY_B.jobString>Making puleun alloy x100</MAKE_PULEUN_ALLOY_B.jobString>
+
+
+	<MAKE_WISTERIA_COMPONENT.label>make Wisteria Corp. Component x2</MAKE_WISTERIA_COMPONENT.label>
+	<MAKE_WISTERIA_COMPONENT.description>Make 2 Wisteria Corp. Components using puleun alloy.</MAKE_WISTERIA_COMPONENT.description>
+	<MAKE_WISTERIA_COMPONENT.jobString>Making Wisteria Corp. Component x2</MAKE_WISTERIA_COMPONENT.jobString>
+
+
+	<MAKE_WISTERIA_COMPONENT_B.label>make Wisteria Corp. Component x4</MAKE_WISTERIA_COMPONENT_B.label>
+	<MAKE_WISTERIA_COMPONENT_B.description>Make 4 Wisteria Corp. Components using puleun alloy.</MAKE_WISTERIA_COMPONENT_B.description>
+	<MAKE_WISTERIA_COMPONENT_B.jobString>Making Wisteria Corp. Component x4</MAKE_WISTERIA_COMPONENT_B.jobString>
+
+
+	<MAKE_PULEUN_FABRIC.label>make puleun fabric x25</MAKE_PULEUN_FABRIC.label>
+	<MAKE_PULEUN_FABRIC.description>Make 25 puleun fabric using organic fibers.</MAKE_PULEUN_FABRIC.description>
+	<MAKE_PULEUN_FABRIC.jobString>Making puleun fabric x25</MAKE_PULEUN_FABRIC.jobString>
+
+
+	<MAKE_PULEUN_FABRIC_B.label>make puleun fabric x50</MAKE_PULEUN_FABRIC_B.label>
+	<MAKE_PULEUN_FABRIC_B.description>Make 50 puleun fabric using organic fibers.</MAKE_PULEUN_FABRIC_B.description>
+	<MAKE_PULEUN_FABRIC_B.jobString>Making puleun fabric x50</MAKE_PULEUN_FABRIC_B.jobString>
+
+
+</LanguageData>

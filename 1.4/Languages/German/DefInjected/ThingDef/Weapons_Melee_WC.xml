@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+	<WC_T_SHATTER.label>WC-PD-PILEDRIVER</WC_T_SHATTER.label>
+	<WC_T_SHATTER.description>The WC-PD-PILEDRIVER is a close-range weapon designed for mining operations, but modified for combat use by the Wisteria Corporation.\n\nThe WC-PD-PILEDRIVER is a high-performance weapon featuring Wisteria's Corporation's latest sub-tech, making it a weapon to watch out for. The weapon's charged core piston and magnetic accelerator give it incredible power, and it's made of blue alloy so the user doesn't get hurt while operating it. However, the weapon is still considerably heavy and requires a considerable amount of strength to handle.\n\nOverall, the WC-PD-PILEDRIVER is perfect for those who need to engage their targets up close.\n\n\nI remember seeing it in a book. It is said that in a distant, foreign land, the knights of the lighthouse wore blue armor and wielded stakes like this.</WC_T_SHATTER.description>
+	<WC_T_SHATTER.tools.0.label>Piledriver bolt</WC_T_SHATTER.tools.0.label>
+
+	<WC_M_JEAGER.label>WC-LS-JAEGER</WC_M_JEAGER.label>
+	<WC_M_JEAGER.description>The WC-LS-JAEGER is a standard charge-longsword for use in close combat situations, developed by the Wisteria Corporation.\n\nIncredibly lightweight, it allows for quick movement during combat. The sword is made from blue alloy, renowned for its wear resistance, ensuring reliability and effectiveness on the battlefield.\n\n\nThese were often used in shipboard battles where the use of firearms are restricted. Those that wielded JAEGERs could even cut through a space's hull with ease.</WC_M_JEAGER.description>
+	<WC_M_JEAGER.tools.0.label>point</WC_M_JEAGER.tools.0.label>
+	<WC_M_JEAGER.tools.1.label>blade</WC_M_JEAGER.tools.1.label>
+	<WC_M_JEAGER.tools.2.label>handle</WC_M_JEAGER.tools.2.label>
+
+	<WC_M_WAZASHI.label>WC-PK/003-WAZASHI</WC_M_WAZASHI.label>
+	<WC_M_WAZASHI.description>WC-PK/003-WAZASHI is a standard close-combat weapon designed for reconnaisance troops, developed by the Wisteria Corporation.\n\nWith a charge core within, this wepaon is designed to deliver powerful slashes with exceptional speed. It has excellent armor penetration, excellent for stealthy assassinations.\n\n\nThe WAZASHI has a popular nickname: "Addiction."\n\nIf you can't quit using before you turn 30, you'll never stop.</WC_M_WAZASHI.description>
+	<WC_M_WAZASHI.tools.0.label>point</WC_M_WAZASHI.tools.0.label>
+	<WC_M_WAZASHI.tools.1.label>blade</WC_M_WAZASHI.tools.1.label>
+	<WC_M_WAZASHI.tools.2.label>handle</WC_M_WAZASHI.tools.2.label>
+
+	<WC_M_VESTAL.label>WC-HM-VESTAL</WC_M_VESTAL.label>
+	<WC_M_VESTAL.description>The WC-HM-VESTAL is a military charge-mace primarily used by front-line combat medics who are frequently caught in close combat situations, developed by the Wisteria Corporation.\n\nThe blunt design of the VESTAL allows it to dent and shred armor. The charge core increases the damage on impact, making it a powerful tool on the battlefield.\n\nIt is designed to be compact and easy to carry, so combat medics still have the ability to carry necessary medical equipment.\n\nWithin the Wisteria Corporation, the word "vestal" has a special meaning. It was the title used for frontline combat medics, who were trained to provide medical support while protecting themselves and those around them.\n\n\nLet's go. Die alone and go to paradise, or live together and go to hell.</WC_M_VESTAL.description>
+	<WC_M_VESTAL.tools.0.label>point</WC_M_VESTAL.tools.0.label>
+	<WC_M_VESTAL.tools.1.label>swing</WC_M_VESTAL.tools.1.label>
+	<WC_M_VESTAL.tools.2.label>handle</WC_M_VESTAL.tools.2.label>
+
+	<WC_M_RENDER.label>WC-S04-SENTENCER</WC_M_RENDER.label>
+	<WC_M_RENDER.description>The WC-S04-SENTENCER is a charge-scythe, developed by the Wisteria Corporation. This military weapon is popular among vanguard units and was specifically designed to combat unarmored or lightly armored enemies.\n\nThe SENTENCER is equipped with a charge core, making it a powerful and reliable weapon. Made of refined blue alloy, it is incredibly balanced and easy to wield.\n\n\nIt is optimized for cutting down multiple enemies at once. It's perfect for wiping out insectoid colonies.</WC_M_RENDER.description>
+	<WC_M_RENDER.verbs.0.label>blade</WC_M_RENDER.verbs.0.label>
+	<WC_M_RENDER.tools.1.label>handle</WC_M_RENDER.tools.1.label>
+
+	<WC_M_CRUSADER.label>WC-HG02-CRUSADER</WC_M_CRUSADER.label>
+	<WC_M_CRUSADER.description>The WC-HG02-CRUSADER is a charge-glaive, making it the preferred weapon for vanguard troops. The refined Zai Blade can easily cut through metal, making it ideal for armor penetration.\n\nIts mid-weight design strikes a balance between strength and mobility. The CRUSADER is crafted from blue alloy, ensuring durability and reliability no matter the circumstances.\n\nIt is often the preferred weapon of dragon hunters. It easily cut the tendons of the wings and, if necessary, it can be used to stab through the eye or even throw like a javelin.</WC_M_CRUSADER.description>
+	<WC_M_CRUSADER.tools.0.label>point</WC_M_CRUSADER.tools.0.label>
+	<WC_M_CRUSADER.tools.1.label>blade</WC_M_CRUSADER.tools.1.label>
+	<WC_M_CRUSADER.tools.2.label>handle</WC_M_CRUSADER.tools.2.label>
+	
+	<WC_M_LENO.label>WC-HS02-LENO</WC_M_LENO.label>
+	<WC_M_LENO.description>The WC-HS02-LENO is a charge-glaive with a slightly larger charge blade than the WC-HG02-CRUSADER, giving the user an advantage in street combat. It is usually used by vanguard units and is part of the Close Combat collection. The spear has a refined Zai Blade that can cut metal like paper, making it an extremely powerful weapon. The LENO's more compact design makes it easy to carry.\n\nBe sure to twist the blade after stabbing.\nIt becomes much more difficult to safely remove and stitch the wound.</WC_M_LENO.description>
+	<WC_M_LENO.tools.0.label>point</WC_M_LENO.tools.0.label>
+	<WC_M_LENO.tools.1.label>blade</WC_M_LENO.tools.1.label>
+	<WC_M_LENO.tools.2.label>handle</WC_M_LENO.tools.2.label>
+
+	<WC_M_VALKING.label>WC-WX01-VALKING</WC_M_VALKING.label>
+	<WC_M_VALKING.description>The WC-WX01-VALKING is a charge-battle ax designed for close combat. With its polearm-like handle, the VALKING, gives the user a distance advantage over their opponent. Although this weapon is typically wielded with both hands, a valkyrie unit can use this weapon with one hand.\n\nDeveloped by the Wisteria Corporation, the VALKING is made from blue alloy and equipped with a charge core, making it both durable and powerful.\n\nOne of the most unique features of the VALKING is its bond with its wielder. This bone allows the weapon to adapt and improve a the wielder becomes stronger and more skilled.\n\nLet's go... to the land that we conquered.</WC_M_VALKING.description>
+	<WC_M_VALKING.tools.0.label>point</WC_M_VALKING.tools.0.label>
+	<WC_M_VALKING.tools.1.label>axe blade</WC_M_VALKING.tools.1.label>
+	<WC_M_VALKING.tools.2.label>handle</WC_M_VALKING.tools.2.label>
+
+	<WC_M_FISSION.label>WC-GH/Z1-FISSION</WC_M_FISSION.label>
+	<WC_M_FISSION.description>The WC-GH/Z1-FISSION is a charge-war hammer that inflicts massive blunt damage to its target. Valkyrie units primarily used the FISSION as siege weapons and can easily destroy armor and even vehicles. Thanks to its long handle, it offers a range advantage in combat.\n\nThis two-handed wwar hammer is heavy and cannot be used by everyone, but valkyrie units can use it with one hand thanks to their enhanced physical abilities.\n\nThe FISSION will create a bond with its wielder, allowing them to utilize its full potential in battle.\n\n\nI will be your shackles.\nThe shackles that bind you to this world. There will be no escape.</WC_M_FISSION.description>
+	<WC_M_FISSION.tools.0.label>left hammer</WC_M_FISSION.tools.0.label>
+	<WC_M_FISSION.tools.1.label>handle</WC_M_FISSION.tools.1.label>
+	<WC_M_FISSION.tools.2.label>right handle</WC_M_FISSION.tools.2.label>
+
+	<WC_M_VILL.label>WC-CM/M1-VILL</WC_M_VILL.label>
+	<WC_M_VILL.description>The WC-CM/M1-VILL is a charge-machete designed for military use. Developed by the Wisteria Corporation, it is made of blue alloy and equipped with a charge core, making it both durable and deadly.\n\nAs a standard issue weapon, the VILL is designed for quick maneuverability and mobility. The machete's compact design makes it easy to use in tight spaces.\n\nOut of the ten soldiers first dispatched into the jungle, two died from diarrhea.\nThree from bugs.\nTwo more from disease\nThe last three mourned the seven who perished. I look over at you.\n\nWhat do you want to say?\n\nDon't try to be a hero. Don't fool around just because you have a shiny new weapon.</WC_M_VILL.description>
+	<WC_M_VILL.tools.0.label>blade</WC_M_VILL.tools.0.label>
+	<WC_M_VILL.tools.1.label>point</WC_M_VILL.tools.1.label>
+	<WC_M_VILL.tools.2.label>handle</WC_M_VILL.tools.2.label>
+
+	<WC_M_KELLY.label>WC-CK-KELLY</WC_M_KELLY.label>
+	<WC_M_KELLY.description>The WC-CK-KELLY is a compact military knife featuring a mini-charge core. Developed by the Wisteria Corporation, it is a standard issue weapon for elite soldiers.\n\nThe KELLY is constructed from blue alloy, providing incredibly durability and strength.\n\nDon't be sparing and don't use it sparingly.\nIt'll save you more than prayer ever will.</WC_M_KELLY.description>
+	<WC_M_KELLY.tools.0.label>blade</WC_M_KELLY.tools.0.label>
+	<WC_M_KELLY.tools.1.label>point</WC_M_KELLY.tools.1.label>
+	<WC_M_KELLY.tools.2.label>handle</WC_M_KELLY.tools.2.label>
+
+	<WC_M_KARINA.label>WC-CD01-KARINA</WC_M_KARINA.label>
+	<WC_M_KARINA.description>The WC-CD01-KARINA is a specially designed charge-dagger ideal for use by spec-op forces. The KARINA is with military sub-technology that provides it with incredibly durability and strength, making it the ideal weapon for close combat and covert operations.\n\nThe sleek, slim design allows for easy concealment. Despite its small size, the KARINA has great power thanks to its sophisticated Larina Blade and charge core.\n\n\nIt is a blade made to be held in reverse.\nIt is optimized for cutting and stabbing.\nIt can be used with a protective shield in narrow passages, making it especially deadly when rushing towards opponents.</WC_M_KARINA.description>
+	<WC_M_KARINA.tools.0.label>blade</WC_M_KARINA.tools.0.label>
+	<WC_M_KARINA.tools.1.label>point</WC_M_KARINA.tools.1.label>
+	<WC_M_KARINA.tools.2.label>handle</WC_M_KARINA.tools.2.label>
+
+	<WC_M_BATON.label>WC-BATON</WC_M_BATON.label>
+	<WC_M_BATON.description>The WC-BATON is a small yet powerful baton developed by the Wisteria Corporation for police and peacekeeping purposes. The baton features a charge core that delivers a non-lethal blow, allowing the wielder to subdue a suspect without causing serious injury. Made of blue alloy, it has great strength and durability, making it very reliable for national security agencies who prioritized non-lethal approaches.\n\n\nYou may be used to fighting outside the fence, but now you have to learn how to fight within.</WC_M_BATON.description>
+	<WC_M_BATON.tools.0.label>mace</WC_M_BATON.tools.0.label>
+	<WC_M_BATON.tools.1.label>handle</WC_M_BATON.tools.1.label>
+
+	<WC_M_PAX.label>WC-PAX</WC_M_PAX.label>
+	<WC_M_PAX.description>The WC-PAX is a pickaxe/axe combination tool, making it extremely useful for survival in rugged terrain or other emergency situations.\nDeveloped by Wisteria Corporation, the PAX features a charge core to make labor much faster and easier. Being very lightweight and easy to carry, it is an ideal tool for outdoor enthusiasts, hikers, and campers.\n\n\nYou probably won't end up getting any blood on it, but if you do, you'll be thankful for its charge core.</WC_M_PAX.description>
+	<WC_M_PAX.tools.0.label>point</WC_M_PAX.tools.0.label>
+	<WC_M_PAX.tools.1.label>blade</WC_M_PAX.tools.1.label>
+	<WC_M_PAX.tools.2.label>handle</WC_M_PAX.tools.2.label>
+
+	<WC_M_MAVIR.label>WC-GS-MAVIR</WC_M_MAVIR.label>
+	<WC_M_MAVIR.description>The WC-GS-MAVIR is a charge-greatsword primarily used by valkyrie units as a siege weapon.\n\nThis charge-greatsword inflicts massive slashing damage to its target and easily destroys both armor and vehicles. The heavy weight gives the user a significant advantage in close combat... assuming the user can pick it up at all. Additionally, the MAVIR forms a bond with its wielder, improving its effectiveness in their hands alone.\n\n\nYeonja, ready yourself. Haha, it is rare to have the opportunity to have a go with someone who only weighs 8kg. </WC_M_MAVIR.description>
+	<WC_M_MAVIR.tools.0.label>point</WC_M_MAVIR.tools.0.label>
+	<WC_M_MAVIR.tools.1.label>blade</WC_M_MAVIR.tools.1.label>
+	<WC_M_MAVIR.tools.2.label>handle</WC_M_MAVIR.tools.2.label>
+
+
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<BR_OrionPart_Eye.label>orion bionic eye</BR_OrionPart_Eye.label>
+	<BR_OrionPart_Eye.description>A bionic eye engineered with orion.\n\n"I can see."</BR_OrionPart_Eye.description>
+	
+	<BR_OrionPart_Arm.label>orion bionic arm</BR_OrionPart_Arm.label>
+	<BR_OrionPart_Arm.description>A bionic arm engineered with orion.\n\n"It sure is an arm."</BR_OrionPart_Arm.description>
+	
+	<BR_OrionPart_Leg.label>orion bionic leg</BR_OrionPart_Leg.label>
+	<BR_OrionPart_Leg.description>A bionic leg engineered with orion. It is incredibly light and strong, behaving nearly identically to real legs and functioning far better.</BR_OrionPart_Leg.description>
+	
+	<BR_OrionPart_Spine.label>orion bionic spine</BR_OrionPart_Spine.label>
+	<BR_OrionPart_Spine.description>A bionic spine engineered with orion. It is incredibly light and strong, behaving nearly identically to a real spine and functioning far better.</BR_OrionPart_Spine.description>
+
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ParentName은 쓰기 전에 반드시 확인할것 -->
+
+  <PlutoSerumHigh.stages.0.label>injected pluto serum</PlutoSerumHigh.stages.0.label>
+  <PlutoSerumHigh.stages.0.description>I succumbed to the temptation.</PlutoSerumHigh.stages.0.description>
+
+
+  <!-- Go-juice addiction -->
+
+  <PlutoSerumWithdrawal.stages.1.label>want pluto serum</PlutoSerumWithdrawal.stages.1.label>
+  <PlutoSerumWithdrawal.stages.1.description>I don't feel like I can do anything... I'm so helpless... I'm so hungry...</PlutoSerumWithdrawal.stages.1.description>
+
+
+</LanguageData>

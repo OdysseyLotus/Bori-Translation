@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+	<WC_WMBP.label>WC-MISSILE-LAUNCH-PLATFORM</WC_WMBP.label>
+	<WC_WMBP.description>A missile launch platform salvaged from a military facility on the destroyed planet, Wisteria. Equipped with an ultra-precise Gaussian targeting system, this launch platform is designed for ground support and is incredibly versatile, being able to stop infantry landings and destroying areas from mid- to long-range. However, a momumental amount of power is required to use the launch platform, so large-scale power generation facilities are required to operate it for extended periods.\n\nEven after Wisteria was destroyed, these missile launch platforms were able to protect the area surrounding them using its autonomous planetary defense AI.\nThere are almost no traces of use or damage. It has maintained its original condition with no dents or scratches.</WC_WMBP.description>
+	
+	
+	<WC_WMBP_ROCKET.label>WMBP-WARHEAD</WC_WMBP_ROCKET.label>
+	
+	
+	<WC_WMBP_TURRET.label>WMBP-TURRET</WC_WMBP_TURRET.label>
+	<WC_WMBP_TURRET.description></WC_WMBP_TURRET.description>
+	
+	
+	<!-- Heavy Sentry Turret -->
+	<WC_HST_TURRET.label>WC-MACHINE-GUN-TURRET</WC_HST_TURRET.label>
+	<WC_HST_TURRET.description>A heavy machine gun turret salvaged from a military facilitry on the destroy planet, Wisteria. Equipped with an ultra-precise Gaussian targeting system, this turret is specialized for annihilating high-value targets and defending areas using its high accuracy and stopping power. However, a momumental amount of power is required to use the launch platform, so large-scale power generation facilities are required to operate it for extended periods.\n\nEven after Wisteria was destroyed, these turrets were able to protect the area surrounding them using its autonomous planetary defense AI.\nAlthough these turrets has no issues in its installation or programming, it did not target organic organisms.\nHowever, it activated and destroyed any drones or mechanoids that were deployed for reconnaisance and data collection.</WC_HST_TURRET.description>
+
+
+	<WC_HST_BULLET.label>MGT-ROUNDS</WC_HST_BULLET.label>
+
+
+	<WC_HST_GUN.label>WC-MACHINE-GUN</WC_HST_GUN.label>
+	<WC_HST_GUN.description>ERROR: DA7@z_C0?R$T3!#</WC_HST_GUN.description>
+	
+	
+	<!-- Automated Machine Gun Platform -->
+	<WC_AMGP_TURRET.label>WC-AUTOMATED-MACHINE-GUN-PLATFORM</WC_AMGP_TURRET.label>
+	<WC_AMGP_TURRET.description>A automatic machine gun platform salvaged from a military facilitry on the destroy planet, Wisteria. Equipped with an ultra-precise Gaussian targeting system, this turret is specialized for intercepting high-mobility targets using the lightning-fast reaction speed and rate of fire of an ultra-advanced AI, firing up to 4,000 .60 caliber bullets per minute. However, a momumental amount of power is required to use the launch platform, so large-scale power generation facilities are required to operate it for extended periods.\n\nEven after Wisteria was destroyed, these platforms were able to protect the area surrounding them using its autonomous planetary defense AI.\nIt was discovered that these platforms utilized a low-level persona AI, but attempts to communicate did not yield any results.\nHowever, the planetary defense AI was not hostile to the exploration team.\nThen, what exactly was the AI guarding the facilities from?</WC_AMGP_TURRET.description>
+	
+	
+	<WC_AMGP_BULLET.label>AMGP-ROUNDS</WC_AMGP_BULLET.label>
+	
+	
+	<WC_AMGP_GUN.label>WC-AUTOMATED-MACHINE-GUN</WC_AMGP_GUN.label>
+	<WC_AMGP_GUN.description>ERROR: DA7@z_C0?R$T3!#</WC_AMGP_GUN.description>
+	
+	
+	<!-- Anti-Aircraft Platform -->
+	<WC_GTP_TURRET.label>WC-GAUSS-ANTI-AIRCRAFT-PLATFORM</WC_GTP_TURRET.label>
+	<WC_GTP_TURRET.description>A triple-barreled anti-aircraft railgun salvaged from a military facilitry on the destroy planet, Wisteria. Equipped with an ultra-precise Gaussian targeting system, this turret is specialized for intercepting air and space crafts with its devastating speed and accuracy. However, a momumental amount of power is required to use the launch platform, so large-scale power generation facilities are required to operate it for extended periods.\n\n\nWhat caused the destruction of your planet?\n\nShut up, you filthy ant.\n\nBecause we dominated the skies.\nYou can't hate your enemy when you give away the key to victory.</WC_GTP_TURRET.description>
+	
+	
+	<WC_GTP_BULLET.label>GAUSS-ANTI-AIRCRAFT-SHELL</WC_GTP_BULLET.label>
+	
+	
+	<WC_GTP_GUN.label>WC-GAUSS-ANTI-AIRCRAFT</WC_GTP_GUN.label>
+	<WC_GTP_GUN.description>ERROR: DA7@z_C0?R$T3!#</WC_GTP_GUN.description>
+
+
+</LanguageData>
